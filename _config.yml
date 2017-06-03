@@ -20,6 +20,8 @@ description: "Ian Byers Ceramics - Artworks from Ian Byers' studio, news of exhi
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ianbyersceramics.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
+env: development
+
 # Build settings
 markdown: kramdown
 exclude:
