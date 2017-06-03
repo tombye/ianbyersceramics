@@ -1,0 +1,8 @@
+*{font-family:Helvetica,sans-serif;background:transparent;color:black;text-shadow:none}body{margin:0;padding:0;width:100%;line-height:1.5em}a,a:visited{text-decoration:underline;word-wrap:break-word}a[href^="/"]:after{content:" (http://www.ianbyersceramics.co.uk" attr(href) ")";font-size:90%}a[href^="http://"]:after,a[href^="https://"]:after{content:" (" attr(href) ")";font-size:90%}abbr[title]:after{content:" (" attr(title) ")"}img{max-width:100%!important}h2,article h1{font-size:1.99em}article h2,article h3{margin-top:2em}#masthead .logo{color:black;font-size:3em;text-transform:uppercase;text-decoration:none;line-height:1em}#masthead .logo a:after,#masthead .logo:after{content:""}.centrepiece{display:block;margin-bottom:3em}.centrepiece img{display:block;margin-bottom:.5em}.sidepiece h2 a{display:block}.sidepiece h2 a:after{content:""}dl{margin:0}dt,dd{display:inline-block;margin:0 0 1em}dt{width:20%}dd{width:75%}.gallery ul{padding:0}.gallery li{list-style:none;margin-bottom:2em}.gallery li img{display:block;margin-bottom:.5em}.mainImage{margin-bottom:2em}.mainImage img{display:block}.breadcrumb,ul.controls,.sidepiece a,footer,.additionalImages,.mainImage a{display:none}
+/*
+ * see http://wellnowicometothinkofit.blogspot.co.uk/2012/06/optimising-not-hiding.html
+ *
+ * Contents: 
+ *
+ * http://www.ianbyersceramics.co.uk/static/css/print.css
+ */
