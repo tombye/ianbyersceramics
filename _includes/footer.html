@@ -1,5 +1,16 @@
 <ul>
-		<li><a href="/process_and_material">Process and material</a></li>
-		<li><a href="/about">About</a></li>
-		<li><a href="/contact">Contact</a></li>
+  <li>
+    {% if page.selected_static == 'process_and_material' %}<em>{% else %}<a href="/process_and_material">{% endif %}
+      Process and material
+    {% if page.selected_static == 'process_and_material' %}</em>{% else %}</a>{% endif %}
+  </li>
+  <li>
+    {% if page.selected_static == 'about' %}<em>{% else %}<a href="/about">{% endif %}
+      About 
+    {% if page.selected_static == 'about' %}</em>{% else %}</a>{% endif %}
+  </li>
+    {% if page.selected_static == 'contact' %}<em>{% else %}<a href="/contact">{% endif %}
+      Contact
+    {% if page.selected_static == 'contact' %}</em>{% else %}</a>{% endif %}
+  </li>
 </ul>
