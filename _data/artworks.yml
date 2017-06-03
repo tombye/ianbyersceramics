@@ -1,0 +1,539 @@
+-
+  id: 1
+  artwork_name: "Liminal 1"
+  dimensions: "26cm x 20cm x 17cm"
+  artwork_materials: ""
+  photos:
+  -
+    photo_name: "Liminal 1, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/Liminal.26cmx20cmx17cm_1.JPG"
+    photo_credit: ""
+  -
+    photo_name: "Liminal 1, view 2"
+    photo_date: ""
+    photo_file: "gallery/photos/view_1_1.JPG"
+    photo_credit: ""
+  -
+    photo_name: "Liminal 1, view 3"
+    photo_date: ""
+    photo_file: "gallery/photos/view_2_1.JPG"
+    photo_credit: ""
+  -
+    photo_name: "Liminal 1, view 4"
+    photo_date: ""
+    photo_file: "gallery/photos/view_3_2.JPG"
+    photo_credit: ""
+  -
+    photo_name: "Liminal 1, view 5"
+    photo_date: ""
+    photo_file: "gallery/photos/view_4_1.JPG"
+    photo_credit: ""
+  -
+    photo_name: "Liminal 1, view 6"
+    photo_date: ""
+    photo_file: "gallery/photos/view_5_1.JPG"
+    photo_credit: ""
+-
+  artwork_name: "Liminal 2"
+  dimensions: "20cm x 17cm x 10cm"
+  artwork_materials: ""
+  id: 2
+  photos:
+  -
+    photo_name: "Liminal 2, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/Liminal_series.20cmx17cmx10cm_1.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Liminal 3"
+  dimensions: "63cm x 20cm x 7cm"
+  artwork_materials: ""
+  id: 3
+  photos:
+  -
+    photo_name: "Liminal 3, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/Liminal_series_34cmx30cmx20cm.jpg"
+    photo_credit: ""
+  -
+    photo_name: "Liminal 3, view 2"
+    photo_date: ""
+    photo_file: "gallery/photos/view_2_2.jpg"
+    photo_credit: ""
+  -
+    photo_name: "Liminal 3, detail"
+    photo_date: ""
+    photo_file: "gallery/photos/detail.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Liminal 4"
+  dimensions: "63cm x 20cm x 7cm"
+  artwork_materials: ""
+  id: 4
+  photos:
+  -
+    photo_name: "Liminal 4, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/Liminal._63cmx20cmx7cm.jpg"
+    photo_credit: ""
+  -
+    photo_name: "Liminal 4, view 2"
+    photo_date: ""
+    photo_file: "gallery/photos/view2.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Liminal 5"
+  dimensions: "28cm x 25cm x 20cm"
+  artwork_materials: ""
+  id: 5
+  photos:
+  -
+    photo_name: "Liminal 5, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/Liminal.28cmx25cmx20cm.jpg"
+    photo_credit: ""
+  -
+    photo_name: "Liminal 5, view 2"
+    photo_date: ""
+    photo_file: "gallery/photos/view2_1.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Liminal 6"
+  dimensions: "33cm x 20cm x 5cm"
+  artwork_materials: ""
+  id: 6
+  photos:
+  -
+    photo_name: "Liminal 6, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/Liminal._33cmx20cmx5cm.jpg"
+    photo_credit: ""
+  -
+    photo_name: "Liminal 6, view 2"
+    photo_date: ""
+    photo_file: "gallery/photos/view_2_3.jpg"
+    photo_credit: ""
+-
+  artwork_name: "-gen 1"
+  dimensions: "152cm diameter"
+  artwork_materials: ""
+  id: 7
+  photos:
+  -
+    photo_name: "-gen 1, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/-gen._1.52cm_diam_1.jpg"
+    photo_credit: ""
+-
+  artwork_name: "-gen 2"
+  dimensions: "252cm diameter"
+  artwork_materials: ""
+  id: 8
+  photos:
+  -
+    photo_name: "-gen 2, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/-gen._2._52cm_diam.JPG"
+    photo_credit: ""
+-
+  artwork_name: "-gen 3"
+  dimensions: "12cm maximum dimension"
+  artwork_materials: ""
+  id: 9
+  photos:
+  -
+    photo_name: "-gen 3, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/-gen._3._12cm_max_dim.JPG"
+    photo_credit: ""
+  -
+    photo_name: "-gen 3, view 2"
+    photo_date: ""
+    photo_file: "gallery/photos/-gen._3._12cm_max_dim_2.JPG"
+    photo_credit: ""
+-
+  artwork_name: "-gen 4"
+  dimensions: "15cm maximum dimension"
+  artwork_materials: ""
+  id: 10
+  photos:
+  -
+    photo_name: "-gen 4, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/-gen._4._max_dim_15_cm.JPG"
+    photo_credit: ""
+  -
+    photo_name: "-gen 4, view 2"
+    photo_date: ""
+    photo_file: "gallery/photos/-gen._4._max_dim_15_cm_2.JPG"
+    photo_credit: ""
+-
+  artwork_name: "-gen 5"
+  dimensions: "17cm maximum dimension"
+  artwork_materials: ""
+  id: 11
+  photos:
+  -
+    photo_name: "-gen 5, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/-gen._5._17cm_max_dim.JPG"
+    photo_credit: ""
+-
+  artwork_name: "-gen 6"
+  dimensions: "17cm maximum dimension"
+  artwork_materials: ""
+  id: 12
+  photos:
+  -
+    photo_name: "-gen 6, view 1"
+    photo_date: ""
+    photo_file: "gallery/photos/-gen._6._17cm_max_dim.JPG"
+    photo_credit: ""
+  -
+    photo_name: "-gen 6, view 2"
+    photo_date: ""
+    photo_file: "gallery/photos/-gen._6._view_2.JPG"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 1"
+  dimensions: ""
+  artwork_materials: ""
+  id: 13
+  photos:
+  -
+    photo_name: "Untitled 1"
+    photo_date: ""
+    photo_file: "gallery/photos/web_-_03.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 2"
+  dimensions: ""
+  artwork_materials: ""
+  id: 14
+  photos:
+  -
+    photo_name: "Untitled 2"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_arc-_1386.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 3"
+  dimensions: ""
+  artwork_materials: ""
+  id: 15
+  photos:
+  -
+    photo_name: "Untitled 3"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_arc-_1378.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 4"
+  dimensions: ""
+  artwork_materials: ""
+  id: 16
+  photos:
+  -
+    photo_name: "Untitled 4"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_arc_-_1381.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 5"
+  dimensions: ""
+  artwork_materials: ""
+  id: 17
+  photos:
+  -
+    photo_name: "Untitled 5"
+    photo_date: ""
+    photo_file: "gallery/photos/Web.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 6"
+  dimensions: ""
+  artwork_materials: ""
+  id: 18
+  photos:
+  -
+    photo_name: "Untitled 6"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_arc-_1362.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 7"
+  dimensions: ""
+  artwork_materials: ""
+  id: 19
+  photos:
+  -
+    photo_name: "Untitled 7"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_-_1350.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 8"
+  dimensions: ""
+  artwork_materials: ""
+  id: 20
+  photos:
+  -
+    photo_name: "Untitled 8"
+    photo_date: ""
+    photo_file: "gallery/photos/Web-_1348.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 9"
+  dimensions: ""
+  artwork_materials: ""
+  id: 21
+  photos:
+  -
+    photo_name: "Untitled 9"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_arc-_1358.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 10"
+  dimensions: ""
+  artwork_materials: ""
+  id: 22
+  photos:
+  -
+    photo_name: "Untitled 10"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_arc-_1352.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 11"
+  dimensions: ""
+  artwork_materials: ""
+  id: 23
+  photos:
+  -
+    photo_name: "Untitled 11"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_arc_-_3718.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 12"
+  dimensions: ""
+  artwork_materials: ""
+  id: 24
+  photos:
+  -
+    photo_name: "Untitled 12"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_arc-_1356.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 13"
+  dimensions: ""
+  artwork_materials: ""
+  id: 25
+  photos:
+  -
+    photo_name: "Untitled 13"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_arc_-_1364.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 14"
+  dimensions: ""
+  artwork_materials: ""
+  id: 26
+  photos:
+  -
+    photo_name: "Untitled 14"
+    photo_date: ""
+    photo_file: "gallery/photos/Web_arc_-_1372.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled 15"
+  dimensions: ""
+  artwork_materials: ""
+  id: 27
+  photos:
+  -
+    photo_name: "Untitled 15"
+    photo_date: ""
+    photo_file: "gallery/photos/Web-_3682.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Yingge residency"
+  dimensions: "N/A"
+  artwork_materials: " N/A"
+  id: 28
+  photos:
+  -
+    photo_name: "Works in progress 1"
+    photo_date: " 2013-09-00"
+    photo_file: "gallery/photos/IMG_0112.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Works in progress 2"
+    photo_date: " 2013-09-00 "
+    photo_file: "gallery/photos/IMG_0116.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Works in progress 3"
+    photo_date: "2013-09-00"
+    photo_file: " gallery/photos/IMG_0118.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Works in progress 4"
+    photo_date: " 2013-09-00"
+    photo_file: "gallery/photos/IMG_0343.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Works in progress 5"
+    photo_date: " 2013-09-00"
+    photo_file: "gallery/photos/IMG_9562.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Works in progress 6"
+    photo_date: " 2013-09-00"
+    photo_file: "gallery/photos/IMG_9573.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Works in progress 7"
+    photo_date: " 2013-09-00"
+    photo_file: "gallery/photos/IMG_9596.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Works in progress 8"
+    photo_date: " 2013-09-00"
+    photo_file: "gallery/photos/IMG_9608.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Works in progress 9"
+    photo_date: " 2013-09-00"
+    photo_file: "gallery/photos/IMG_9616.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Works in progress 10"
+    photo_date: " 2013-09-00"
+    photo_file: "gallery/photos/IMG_9621.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Works in progress 11"
+    photo_date: " 2013-09-00"
+    photo_file: "gallery/photos/P1030027.jpg"
+    photo_credit: "Ian Byers"
+  -
+    photo_name: "Ian in the Yingge studio"
+    photo_date: " 2013-09-00"
+    photo_file: "gallery/photos/P1030037.jpg"
+    photo_credit: "Ian Byers"
+-
+  artwork_name: "Odyssey 1"
+  dimensions: "Maximum dimension: 47cm"
+  artwork_materials: ""
+  id: 29
+  photos:
+  -
+    photo_name: "Odyssey 1"
+    photo_date: " 2017-01-00"
+    photo_file: "gallery/photos/image1.JPG"
+    photo_credit: "Ian Byers"
+-
+  artwork_name: "Odyssey 2"
+  dimensions: "Maximum dimension: 22cm"
+  artwork_materials: ""
+  id: 30
+  photos:
+  -
+    photo_name: "Odyssey 2"
+    photo_date: " 2017-01-00"
+    photo_file: "gallery/photos/image2.JPG"
+    photo_credit: "Ian Byers"
+-
+  artwork_name: "Odyssey 3"
+  dimensions: "Maximum dimension: 40cm"
+  artwork_materials: ""
+  id: 31
+  photos:
+  -
+    photo_name: "Odyssey 3"
+    photo_date: " 2017-01-00"
+    photo_file: "gallery/photos/image3.JPG"
+    photo_credit: "Ian Byers"
+-
+  artwork_name: "Odyssey 4"
+  dimensions: "Maximum dimension: 49cm"
+  artwork_materials: ""
+  id: 32
+  photos:
+  -
+    photo_name: "Odyssey 4"
+    photo_date: " 2017-01-00"
+    photo_file: "gallery/photos/Pieces_with_netting_1_of_15.jpg"
+    photo_credit: "Ian Byers"
+-
+  artwork_name: "Odyssey 5"
+  dimensions: "Maximum dimension: 22cm"
+  artwork_materials: ""
+  id: 33
+  photos:
+  -
+    photo_name: "Odyssey 5"
+    photo_date: " 2017-01-00"
+    photo_file: "gallery/photos/Pieces_with_netting_2_of_15.jpg"
+    photo_credit: "Ian Byers"
+-
+  artwork_name: "Odyssey 6"
+  dimensions: "Maximum dimension: 16cm"
+  artwork_materials: ""
+  id: 34
+  photos:
+  -
+    photo_name: "Odyssey 6"
+    photo_date: " 2017-01-00"
+    photo_file: "gallery/photos/Pieces_with_netting_6_of_15.jpg"
+    photo_credit: "Ian Byers"
+-
+  artwork_name: "Odyssey 7"
+  dimensions: "Maximum dimension: 27cm"
+  artwork_materials: ""
+  id: 35
+  photos:
+  -
+    photo_name: "Odyssey 7"
+    photo_date: " 2017-01-00"
+    photo_file: "gallery/photos/Pieces_with_netting_8_of_15.jpg"
+    photo_credit: "Ian Byers"
+-
+  artwork_name: "Odyssey 8"
+  dimensions: "Maximum dimension: 15cm"
+  artwork_materials: ""
+  id: 36
+  photos:
+  -
+    photo_name: "Odyssey 8"
+    photo_date: " 2017-01-00"
+    photo_file: "gallery/photos/Pieces_with_netting_10_of_15.jpg"
+    photo_credit: "Ian Byers"
+-
+  artwork_name: "Odyssey 9"
+  dimensions: "Maximum dimension: 31cm"
+  artwork_materials: ""
+  id: 37
+  photos:
+  -
+    photo_name: "Odyssey 9"
+    photo_date: " 2017-01-00"
+    photo_file: "gallery/photos/Pieces_with_netting_11_of_15.jpg"
+    photo_credit: "Ian Byers"
+-
+  artwork_name: "Odyssey 10"
+  dimensions: "Maximum dimension: 26cm"
+  artwork_materials: ""
+  id: 38
+  photos:
+  -
+    photo_name: "Odyssey 10"
+    photo_date: " 2017-01-00"
+    photo_file: "gallery/photos/Pieces_with_netting_15_of_15.jpg"
+    photo_credit: "Ian Byers"
+
