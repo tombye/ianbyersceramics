@@ -1,3 +1,3 @@
 #! /bin/bash
 
-jekyll build --watch
+bundle exec jekyll build --watch
