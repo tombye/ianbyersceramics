@@ -1,6 +1,5 @@
 ---
 title: "About | Ian Byers Ceramics"
-permalink: /about
 layout: base
 breadcrumb: |
   <header class="page-header">
