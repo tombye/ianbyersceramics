@@ -1,21 +1,15 @@
-{% extends "base.html" %}
-{% load static from staticfiles %}
-
-{% block bodyclass %}{% endblock %}
-
-{% block title %}News | Ian Byers Ceramics{% endblock %}
-
-{% block breadcrumb %}
-<header class="page-header">
+---
+layout: base
+title: "News | Ian Byers Ceramics"
+breadcrumb: |
+  <header class="page-header">
     <h1>News</h1>
     <ul class="breadcrumb" role="breadcrumbs">
-        <li><a href="/">Home</a></li>
-        <li>News</li>
+      <li><a href="/">Home</a></li>
+      <li>News</li>
     </ul>
-</header>
-{% endblock %}
-
-{% block content %}
+  </header>
+---
         <article class="intro">
             <h1>Yingge Ceramics Museum residency</h1>
             <p>I was the artist in residence at the <a href="http://www.ceramics.ntpc.gov.tw/en-us/Home.ycm">Yingge Ceramics Museum</a> in Taipei, Taiwan for September this year.</p>
@@ -24,14 +18,14 @@
         </article>
         <article>
             <h1>3 makers</h1>
-            <img class="inset-right" src="{% static 'img/news/gen.jpg' %}" alt="-Gen artwork" />
+            <img class="inset-right" src="/public/images/news/gen.jpg" alt="-Gen artwork" />
             <p>I took part in the <a href="http://tokarskagallery.co.uk/3makers">3 makers exhibition</a> at the Tokarska gallery in Walthamstow with <a href="http://amandadoidge.co.uk/">Amanda Doidge</a> and <a href="http://www.raewynharrison.com/">Raewyn Harrison</a> from May 9th to 1st June of this year.</p>
             <p>The exhibition included the following talks on contemporary ceramics:</p>
             <ul>
                 <li><a href="http://www.keithharrisonattokarskagallery.eventbrite.com/">Talk by Keith Harrison</a></li>
                 <li><a href="http://bonniekemskeattokarskagallery.eventbrite.com/">Talk by Bonnie Kemske</a></li>
             </ul>
-            <p>You can view details of the exhibition on the <a href="http://tokarskagallery.co.uk/3makers">Tokarska gallery website</a> or as a <a href="{% static 'pdf/3_makers.pdf' %}">PDF (2402K)</a>.</p>
+            <p>You can view details of the exhibition on the <a href="http://tokarskagallery.co.uk/3makers">Tokarska gallery website</a> or as a <a href="/public/pdf/3_makers.pdf">PDF (2402K)</a>.</p>
             <h2>Interviews</h2>
             <div class="video">
                 <p>I've been interviewed about the work for this show.</p>
@@ -59,12 +53,3 @@
             <p>I have been selected to be an artist in residence at the <a href="http://www.ceramics.ntpc.gov.tw/en-us/Home.ycm">Yingge Ceramics Museum</a> in Taiwan during 2013.</p>
             <p>This will be a residency of up to three months, which will involve both collaborative work, lectures and the development of small sculptures in porcelain.</p>
         </article>
-{% endblock %}
-
-{% block footer %}
-<ul>
-	<li><a href="/process_and_material">Process and material</a></li>
-    <li><a href="/about">About</a></li>
-	<li><a href="/contact">Contact</a></li>
-</ul>
-{% endblock %}
