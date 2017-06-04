@@ -1,0 +1,20 @@
+---
+layout: base
+bodyclass: gallery
+---
+<p class="intro">Artworks in this gallery</p>
+<ul>
+{% assign gallery = site.data.galleries[page.gallery_index] %}
+{% assign artwork_indices = gallery.artworks %}
+{% for index in artwork_indices %}
+  {% assign artwork = site.data.artworks[index] %}
+  {% assign photo = artwork.photos[artwork.artwork_photo] %}
+    <li>
+      <a href="/galleries/{{ gallery.slug }}/artworks/{{ artwork.id }}">
+      <img src="/public/images/{{ photo.photo_file }}" alt="{{ photo.photo_name }}" width="200" height="200" />
+        {{ artwork.artwork_name }}
+      </a>
+    </li>
+{% endfor %}
+</ul>
+

@@ -1,0 +1,26 @@
+---
+layout: base
+title: "Galleries | Ian Byers Ceramics"
+body_class: gallery
+breadcrumb: |
+  <header class="page-header">
+      <h1>Galleries</h1>
+      <ul class="breadcrumb" role="breadcrumbs">
+        <li><a href="/">Home</a></li>
+        <li>Galleries</li>
+      </ul>
+  </header>
+---
+<ul>
+{% for gallery in site.data.galleries %}
+{% assign gallery_artwork = site.data.artworks[gallery.photo_artwork] %}
+{% assign gallery_photo = gallery_artwork.photos[gallery_artwork.artwork_photo] %}
+
+  <li>
+    <a href="/galleries/{{ gallery.slug }}">
+      <img src="/public/images/{{ gallery_photo.photo_file }}" alt="{{ gallery_photo.name}}" width="200" height="200" />
+      {{ gallery.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>

@@ -1,4 +1,6 @@
 -
+  id: 1
+  artwork_photo: 4
   artwork_name: "Liminal 1"
   dimensions: "26cm x 20cm x 17cm"
   artwork_materials: ""
@@ -37,6 +39,8 @@
   artwork_name: "Liminal 2"
   dimensions: "20cm x 17cm x 10cm"
   artwork_materials: ""
+  id: 2
+  artwork_photo: 0
   photos:
   -
     photo_name: "Liminal 2, view 1"
@@ -47,6 +51,8 @@
   artwork_name: "Liminal 3"
   dimensions: "63cm x 20cm x 7cm"
   artwork_materials: ""
+  id: 3
+  artwork_photo: 0
   photos:
   -
     photo_name: "Liminal 3, view 1"
@@ -67,6 +73,8 @@
   artwork_name: "Liminal 4"
   dimensions: "63cm x 20cm x 7cm"
   artwork_materials: ""
+  id: 4
+  artwork_photo: 0
   photos:
   -
     photo_name: "Liminal 4, view 1"
@@ -82,6 +90,8 @@
   artwork_name: "Liminal 5"
   dimensions: "28cm x 25cm x 20cm"
   artwork_materials: ""
+  id: 5
+  artwork_photo: 0
   photos:
   -
     photo_name: "Liminal 5, view 1"
@@ -97,6 +107,8 @@
   artwork_name: "Liminal 6"
   dimensions: "33cm x 20cm x 5cm"
   artwork_materials: ""
+  id: 6
+  artwork_photo: 0
   photos:
   -
     photo_name: "Liminal 6, view 1"
@@ -112,6 +124,8 @@
   artwork_name: "-gen 1"
   dimensions: "152cm diameter"
   artwork_materials: ""
+  id: 7
+  artwork_photo: 0
   photos:
   -
     photo_name: "-gen 1, view 1"
@@ -122,6 +136,8 @@
   artwork_name: "-gen 2"
   dimensions: "252cm diameter"
   artwork_materials: ""
+  id: 8
+  artwork_photo: 0
   photos:
   -
     photo_name: "-gen 2, view 1"
@@ -132,6 +148,8 @@
   artwork_name: "-gen 3"
   dimensions: "12cm maximum dimension"
   artwork_materials: ""
+  id: 9
+  artwork_photo: 0
   photos:
   -
     photo_name: "-gen 3, view 1"
@@ -147,6 +165,8 @@
   artwork_name: "-gen 4"
   dimensions: "15cm maximum dimension"
   artwork_materials: ""
+  id: 10
+  artwork_photo: 0
   photos:
   -
     photo_name: "-gen 4, view 1"
@@ -162,6 +182,8 @@
   artwork_name: "-gen 5"
   dimensions: "17cm maximum dimension"
   artwork_materials: ""
+  id: 11
+  artwork_photo: 0
   photos:
   -
     photo_name: "-gen 5, view 1"
@@ -172,6 +194,8 @@
   artwork_name: "-gen 6"
   dimensions: "17cm maximum dimension"
   artwork_materials: ""
+  id: 12
+  artwork_photo: 0
   photos:
   -
     photo_name: "-gen 6, view 1"
@@ -187,6 +211,8 @@
   artwork_name: "Untitled 1"
   dimensions: ""
   artwork_materials: ""
+  id: 13
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 1"
@@ -197,6 +223,8 @@
   artwork_name: "Untitled 2"
   dimensions: ""
   artwork_materials: ""
+  id: 14
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 2"
@@ -207,6 +235,8 @@
   artwork_name: "Untitled 3"
   dimensions: ""
   artwork_materials: ""
+  id: 15
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 3"
@@ -217,6 +247,8 @@
   artwork_name: "Untitled 4"
   dimensions: ""
   artwork_materials: ""
+  id: 16
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 4"
@@ -227,6 +259,8 @@
   artwork_name: "Untitled 5"
   dimensions: ""
   artwork_materials: ""
+  id: 17
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 5"
@@ -237,6 +271,7 @@
   artwork_name: "Untitled 6"
   dimensions: ""
   artwork_materials: ""
+  id: 18
   photos:
   -
     photo_name: "Untitled 6"
@@ -247,6 +282,8 @@
   artwork_name: "Untitled 7"
   dimensions: ""
   artwork_materials: ""
+  id: 19
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 7"
@@ -257,6 +294,8 @@
   artwork_name: "Untitled 8"
   dimensions: ""
   artwork_materials: ""
+  id: 20
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 8"
@@ -267,6 +306,8 @@
   artwork_name: "Untitled 9"
   dimensions: ""
   artwork_materials: ""
+  id: 21
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 9"
@@ -277,6 +318,8 @@
   artwork_name: "Untitled 10"
   dimensions: ""
   artwork_materials: ""
+  id: 22
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 10"
@@ -287,6 +330,8 @@
   artwork_name: "Untitled 11"
   dimensions: ""
   artwork_materials: ""
+  id: 23
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 11"
@@ -297,6 +342,8 @@
   artwork_name: "Untitled 12"
   dimensions: ""
   artwork_materials: ""
+  id: 24
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 12"
@@ -307,6 +354,8 @@
   artwork_name: "Untitled 13"
   dimensions: ""
   artwork_materials: ""
+  id: 25
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 13"
@@ -317,6 +366,8 @@
   artwork_name: "Untitled 14"
   dimensions: ""
   artwork_materials: ""
+  id: 26
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 14"
@@ -327,6 +378,8 @@
   artwork_name: "Untitled 15"
   dimensions: ""
   artwork_materials: ""
+  id: 27
+  artwork_photo: 0
   photos:
   -
     photo_name: "Untitled 15"
@@ -337,6 +390,8 @@
   artwork_name: "Yingge residency"
   dimensions: "N/A"
   artwork_materials: " N/A"
+  id: 28
+  artwork_photo: 0
   photos:
   -
     photo_name: "Works in progress 1"
@@ -402,6 +457,8 @@
   artwork_name: "Odyssey 1"
   dimensions: "Maximum dimension: 47cm"
   artwork_materials: ""
+  id: 29
+  artwork_photo: 0
   photos:
   -
     photo_name: "Odyssey 1"
@@ -412,6 +469,8 @@
   artwork_name: "Odyssey 2"
   dimensions: "Maximum dimension: 22cm"
   artwork_materials: ""
+  id: 30
+  artwork_photo: 0
   photos:
   -
     photo_name: "Odyssey 2"
@@ -422,6 +481,8 @@
   artwork_name: "Odyssey 3"
   dimensions: "Maximum dimension: 40cm"
   artwork_materials: ""
+  id: 31
+  artwork_photo: 0
   photos:
   -
     photo_name: "Odyssey 3"
@@ -432,6 +493,8 @@
   artwork_name: "Odyssey 4"
   dimensions: "Maximum dimension: 49cm"
   artwork_materials: ""
+  id: 32
+  artwork_photo: 0
   photos:
   -
     photo_name: "Odyssey 4"
@@ -442,6 +505,8 @@
   artwork_name: "Odyssey 5"
   dimensions: "Maximum dimension: 22cm"
   artwork_materials: ""
+  id: 33
+  artwork_photo: 0
   photos:
   -
     photo_name: "Odyssey 5"
@@ -452,6 +517,8 @@
   artwork_name: "Odyssey 6"
   dimensions: "Maximum dimension: 16cm"
   artwork_materials: ""
+  id: 34
+  artwork_photo: 0
   photos:
   -
     photo_name: "Odyssey 6"
@@ -462,6 +529,8 @@
   artwork_name: "Odyssey 7"
   dimensions: "Maximum dimension: 27cm"
   artwork_materials: ""
+  id: 35
+  artwork_photo: 0
   photos:
   -
     photo_name: "Odyssey 7"
@@ -472,6 +541,8 @@
   artwork_name: "Odyssey 8"
   dimensions: "Maximum dimension: 15cm"
   artwork_materials: ""
+  id: 36
+  artwork_photo: 0
   photos:
   -
     photo_name: "Odyssey 8"
@@ -482,6 +553,8 @@
   artwork_name: "Odyssey 9"
   dimensions: "Maximum dimension: 31cm"
   artwork_materials: ""
+  id: 37
+  artwork_photo: 0
   photos:
   -
     photo_name: "Odyssey 9"
@@ -492,6 +565,8 @@
   artwork_name: "Odyssey 10"
   dimensions: "Maximum dimension: 26cm"
   artwork_materials: ""
+  id: 38
+  artwork_photo: 0
   photos:
   -
     photo_name: "Odyssey 10"
