@@ -9,37 +9,37 @@
     id: 1
     photo_name: "Liminal 1, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/Liminal.26cmx20cmx17cm_1.JPG"
+    photo_file: "Liminal.26cmx20cmx17cm_1.JPG"
     photo_credit: ""
   -
     id: 2
     photo_name: "Liminal 1, view 2"
     photo_date: ""
-    photo_file: "gallery/photos/view_1_1.JPG"
+    photo_file: "view_1_1.JPG"
     photo_credit: ""
   -
     id: 3
     photo_name: "Liminal 1, view 3"
     photo_date: ""
-    photo_file: "gallery/photos/view_2_1.JPG"
+    photo_file: "view_2_1.JPG"
     photo_credit: ""
   -
     id: 4
     photo_name: "Liminal 1, view 4"
     photo_date: ""
-    photo_file: "gallery/photos/view_3_2.JPG"
+    photo_file: "view_3_2.JPG"
     photo_credit: ""
   -
     id: 5
     photo_name: "Liminal 1, view 5"
     photo_date: ""
-    photo_file: "gallery/photos/view_4_1.JPG"
+    photo_file: "view_4_1.JPG"
     photo_credit: ""
   -
     id: 6
     photo_name: "Liminal 1, view 6"
     photo_date: ""
-    photo_file: "gallery/photos/view_5_1.JPG"
+    photo_file: "view_5_1.JPG"
     photo_credit: ""
 -
   artwork_name: "Liminal 2"
@@ -52,7 +52,7 @@
     id: 7
     photo_name: "Liminal 2, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/Liminal_series.20cmx17cmx10cm_1.jpg"
+    photo_file: "Liminal_series.20cmx17cmx10cm_1.jpg"
     photo_credit: ""
 -
   artwork_name: "Liminal 3"
@@ -65,19 +65,19 @@
     id: 8
     photo_name: "Liminal 3, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/Liminal_series_34cmx30cmx20cm.jpg"
+    photo_file: "Liminal_series_34cmx30cmx20cm.jpg"
     photo_credit: ""
   -
     id: 9
     photo_name: "Liminal 3, view 2"
     photo_date: ""
-    photo_file: "gallery/photos/view_2_2.jpg"
+    photo_file: "view_2_2.jpg"
     photo_credit: ""
   -
     id: 10
     photo_name: "Liminal 3, detail"
     photo_date: ""
-    photo_file: "gallery/photos/detail.jpg"
+    photo_file: "detail.jpg"
     photo_credit: ""
 -
   artwork_name: "Liminal 4"
@@ -90,13 +90,13 @@
     id: 11
     photo_name: "Liminal 4, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/Liminal._63cmx20cmx7cm.jpg"
+    photo_file: "Liminal._63cmx20cmx7cm.jpg"
     photo_credit: ""
   -
     id: 12
     photo_name: "Liminal 4, view 2"
     photo_date: ""
-    photo_file: "gallery/photos/view2.jpg"
+    photo_file: "view2.jpg"
     photo_credit: ""
 -
   artwork_name: "Liminal 5"
@@ -109,13 +109,13 @@
     id: 13
     photo_name: "Liminal 5, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/Liminal.28cmx25cmx20cm.jpg"
+    photo_file: "Liminal.28cmx25cmx20cm.jpg"
     photo_credit: ""
   -
     id: 14
     photo_name: "Liminal 5, view 2"
     photo_date: ""
-    photo_file: "gallery/photos/view2_1.jpg"
+    photo_file: "view2_1.jpg"
     photo_credit: ""
 -
   artwork_name: "Liminal 6"
@@ -128,13 +128,13 @@
     id: 15
     photo_name: "Liminal 6, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/Liminal._33cmx20cmx5cm.jpg"
+    photo_file: "Liminal._33cmx20cmx5cm.jpg"
     photo_credit: ""
   -
     id: 16
     photo_name: "Liminal 6, view 2"
     photo_date: ""
-    photo_file: "gallery/photos/view_2_3.jpg"
+    photo_file: "view_2_3.jpg"
     photo_credit: ""
 -
   artwork_name: "-gen 1"
@@ -147,7 +147,7 @@
     id: 17
     photo_name: "-gen 1, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/-gen._1.52cm_diam_1.jpg"
+    photo_file: "-gen._1.52cm_diam_1.jpg"
     photo_credit: ""
 -
   artwork_name: "-gen 2"
@@ -160,7 +160,7 @@
     id: 18
     photo_name: "-gen 2, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/-gen._2._52cm_diam.JPG"
+    photo_file: "-gen._2._52cm_diam.JPG"
     photo_credit: ""
 -
   artwork_name: "-gen 3"
@@ -173,13 +173,13 @@
     id: 19
     photo_name: "-gen 3, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/-gen._3._12cm_max_dim.JPG"
+    photo_file: "-gen._3._12cm_max_dim.JPG"
     photo_credit: ""
   -
     id: 20
     photo_name: "-gen 3, view 2"
     photo_date: ""
-    photo_file: "gallery/photos/-gen._3._12cm_max_dim_2.JPG"
+    photo_file: "-gen._3._12cm_max_dim_2.JPG"
     photo_credit: ""
 -
   artwork_name: "-gen 4"
@@ -192,13 +192,13 @@
     id: 21
     photo_name: "-gen 4, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/-gen._4._max_dim_15_cm.JPG"
+    photo_file: "-gen._4._max_dim_15_cm.JPG"
     photo_credit: ""
   -
     id: 22
     photo_name: "-gen 4, view 2"
     photo_date: ""
-    photo_file: "gallery/photos/-gen._4._max_dim_15_cm_2.JPG"
+    photo_file: "-gen._4._max_dim_15_cm_2.JPG"
     photo_credit: ""
 -
   artwork_name: "-gen 5"
@@ -211,7 +211,7 @@
     id: 23
     photo_name: "-gen 5, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/-gen._5._17cm_max_dim.JPG"
+    photo_file: "-gen._5._17cm_max_dim.JPG"
     photo_credit: ""
 -
   artwork_name: "-gen 6"
@@ -224,13 +224,13 @@
     id: 24
     photo_name: "-gen 6, view 1"
     photo_date: ""
-    photo_file: "gallery/photos/-gen._6._17cm_max_dim.JPG"
+    photo_file: "-gen._6._17cm_max_dim.JPG"
     photo_credit: ""
   -
     id: 25
     photo_name: "-gen 6, view 2"
     photo_date: ""
-    photo_file: "gallery/photos/-gen._6._view_2.JPG"
+    photo_file: "-gen._6._view_2.JPG"
     photo_credit: ""
 -
   artwork_name: "Untitled 1"
@@ -243,7 +243,7 @@
     id: 26
     photo_name: "Untitled 1"
     photo_date: ""
-    photo_file: "gallery/photos/web_-_03.jpg"
+    photo_file: "web_-_03.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 2"
@@ -256,7 +256,7 @@
     id: 27
     photo_name: "Untitled 2"
     photo_date: ""
-    photo_file: "gallery/photos/Web_arc-_1386.jpg"
+    photo_file: "Web_arc-_1386.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 3"
@@ -269,7 +269,7 @@
     id: 28
     photo_name: "Untitled 3"
     photo_date: ""
-    photo_file: "gallery/photos/Web_arc-_1378.jpg"
+    photo_file: "Web_arc-_1378.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 4"
@@ -282,7 +282,7 @@
     id: 29
     photo_name: "Untitled 4"
     photo_date: ""
-    photo_file: "gallery/photos/Web_arc_-_1381.jpg"
+    photo_file: "Web_arc_-_1381.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 5"
@@ -295,7 +295,7 @@
     id: 30
     photo_name: "Untitled 5"
     photo_date: ""
-    photo_file: "gallery/photos/Web.jpg"
+    photo_file: "Web.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 6"
@@ -307,7 +307,7 @@
     id: 31
     photo_name: "Untitled 6"
     photo_date: ""
-    photo_file: "gallery/photos/Web_arc-_1362.jpg"
+    photo_file: "Web_arc-_1362.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 7"
@@ -320,7 +320,7 @@
     id: 32
     photo_name: "Untitled 7"
     photo_date: ""
-    photo_file: "gallery/photos/Web_-_1350.jpg"
+    photo_file: "Web_-_1350.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 8"
@@ -333,7 +333,7 @@
     id: 33
     photo_name: "Untitled 8"
     photo_date: ""
-    photo_file: "gallery/photos/Web-_1348.jpg"
+    photo_file: "Web-_1348.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 9"
@@ -346,7 +346,7 @@
     id: 34
     photo_name: "Untitled 9"
     photo_date: ""
-    photo_file: "gallery/photos/Web_arc-_1358.jpg"
+    photo_file: "Web_arc-_1358.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 10"
@@ -359,7 +359,7 @@
     id: 35
     photo_name: "Untitled 10"
     photo_date: ""
-    photo_file: "gallery/photos/Web_arc-_1352.jpg"
+    photo_file: "Web_arc-_1352.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 11"
@@ -372,7 +372,7 @@
     id: 36
     photo_name: "Untitled 11"
     photo_date: ""
-    photo_file: "gallery/photos/Web_arc_-_3718.jpg"
+    photo_file: "Web_arc_-_3718.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 12"
@@ -385,7 +385,7 @@
     id: 37
     photo_name: "Untitled 12"
     photo_date: ""
-    photo_file: "gallery/photos/Web_arc-_1356.jpg"
+    photo_file: "Web_arc-_1356.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 13"
@@ -398,7 +398,7 @@
     id: 38
     photo_name: "Untitled 13"
     photo_date: ""
-    photo_file: "gallery/photos/Web_arc_-_1364.jpg"
+    photo_file: "Web_arc_-_1364.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 14"
@@ -411,7 +411,7 @@
     id: 39
     photo_name: "Untitled 14"
     photo_date: ""
-    photo_file: "gallery/photos/Web_arc_-_1372.jpg"
+    photo_file: "Web_arc_-_1372.jpg"
     photo_credit: ""
 -
   artwork_name: "Untitled 15"
@@ -424,7 +424,7 @@
     id: 40
     photo_name: "Untitled 15"
     photo_date: ""
-    photo_file: "gallery/photos/Web-_3682.jpg"
+    photo_file: "Web-_3682.jpg"
     photo_credit: ""
 -
   artwork_name: "Yingge residency"
@@ -437,73 +437,73 @@
     id: 41
     photo_name: "Works in progress 1"
     photo_date: " 2013-09-00"
-    photo_file: "gallery/photos/IMG_0112.jpg"
+    photo_file: "IMG_0112.jpg"
     photo_credit: "Ian Byers"
   -
     id: 42
     photo_name: "Works in progress 2"
     photo_date: " 2013-09-00 "
-    photo_file: "gallery/photos/IMG_0116.jpg"
+    photo_file: "IMG_0116.jpg"
     photo_credit: "Ian Byers"
   -
     id: 43
     photo_name: "Works in progress 3"
     photo_date: "2013-09-00"
-    photo_file: " gallery/photos/IMG_0118.jpg"
+    photo_file: " IMG_0118.jpg"
     photo_credit: "Ian Byers"
   -
     id: 44
     photo_name: "Works in progress 4"
     photo_date: " 2013-09-00"
-    photo_file: "gallery/photos/IMG_0343.jpg"
+    photo_file: "IMG_0343.jpg"
     photo_credit: "Ian Byers"
   -
     id: 45
     photo_name: "Works in progress 5"
     photo_date: " 2013-09-00"
-    photo_file: "gallery/photos/IMG_9562.jpg"
+    photo_file: "IMG_9562.jpg"
     photo_credit: "Ian Byers"
   -
     id: 46
     photo_name: "Works in progress 6"
     photo_date: " 2013-09-00"
-    photo_file: "gallery/photos/IMG_9573.jpg"
+    photo_file: "IMG_9573.jpg"
     photo_credit: "Ian Byers"
   -
     id: 47
     photo_name: "Works in progress 7"
     photo_date: " 2013-09-00"
-    photo_file: "gallery/photos/IMG_9596.jpg"
+    photo_file: "IMG_9596.jpg"
     photo_credit: "Ian Byers"
   -
     id: 48
     photo_name: "Works in progress 8"
     photo_date: " 2013-09-00"
-    photo_file: "gallery/photos/IMG_9608.jpg"
+    photo_file: "IMG_9608.jpg"
     photo_credit: "Ian Byers"
   -
     id: 49
     photo_name: "Works in progress 9"
     photo_date: " 2013-09-00"
-    photo_file: "gallery/photos/IMG_9616.jpg"
+    photo_file: "IMG_9616.jpg"
     photo_credit: "Ian Byers"
   -
     id: 50
     photo_name: "Works in progress 10"
     photo_date: " 2013-09-00"
-    photo_file: "gallery/photos/IMG_9621.jpg"
+    photo_file: "IMG_9621.jpg"
     photo_credit: "Ian Byers"
   -
     id: 51
     photo_name: "Works in progress 11"
     photo_date: " 2013-09-00"
-    photo_file: "gallery/photos/P1030027.jpg"
+    photo_file: "P1030027.jpg"
     photo_credit: "Ian Byers"
   -
     id: 52
     photo_name: "Ian in the Yingge studio"
     photo_date: " 2013-09-00"
-    photo_file: "gallery/photos/P1030037.jpg"
+    photo_file: "P1030037.jpg"
     photo_credit: "Ian Byers"
 -
   artwork_name: "Odyssey 1"
@@ -516,7 +516,7 @@
     id: 53
     photo_name: "Odyssey 1"
     photo_date: " 2017-01-00"
-    photo_file: "gallery/photos/image1.JPG"
+    photo_file: "image1.JPG"
     photo_credit: "Ian Byers"
 -
   artwork_name: "Odyssey 2"
@@ -529,7 +529,7 @@
     id: 54
     photo_name: "Odyssey 2"
     photo_date: " 2017-01-00"
-    photo_file: "gallery/photos/image2.JPG"
+    photo_file: "image2.JPG"
     photo_credit: "Ian Byers"
 -
   artwork_name: "Odyssey 3"
@@ -542,7 +542,7 @@
     id: 55
     photo_name: "Odyssey 3"
     photo_date: " 2017-01-00"
-    photo_file: "gallery/photos/image3.JPG"
+    photo_file: "image3.JPG"
     photo_credit: "Ian Byers"
 -
   artwork_name: "Odyssey 4"
@@ -555,7 +555,7 @@
     id: 56
     photo_name: "Odyssey 4"
     photo_date: " 2017-01-00"
-    photo_file: "gallery/photos/Pieces_with_netting_1_of_15.jpg"
+    photo_file: "Pieces_with_netting_1_of_15.jpg"
     photo_credit: "Ian Byers"
 -
   artwork_name: "Odyssey 5"
@@ -568,7 +568,7 @@
     id: 57
     photo_name: "Odyssey 5"
     photo_date: " 2017-01-00"
-    photo_file: "gallery/photos/Pieces_with_netting_2_of_15.jpg"
+    photo_file: "Pieces_with_netting_2_of_15.jpg"
     photo_credit: "Ian Byers"
 -
   artwork_name: "Odyssey 6"
@@ -581,7 +581,7 @@
     id: 58
     photo_name: "Odyssey 6"
     photo_date: " 2017-01-00"
-    photo_file: "gallery/photos/Pieces_with_netting_6_of_15.jpg"
+    photo_file: "Pieces_with_netting_6_of_15.jpg"
     photo_credit: "Ian Byers"
 -
   artwork_name: "Odyssey 7"
@@ -594,7 +594,7 @@
     id: 59
     photo_name: "Odyssey 7"
     photo_date: " 2017-01-00"
-    photo_file: "gallery/photos/Pieces_with_netting_8_of_15.jpg"
+    photo_file: "Pieces_with_netting_8_of_15.jpg"
     photo_credit: "Ian Byers"
 -
   artwork_name: "Odyssey 8"
@@ -607,7 +607,7 @@
     id: 60
     photo_name: "Odyssey 8"
     photo_date: " 2017-01-00"
-    photo_file: "gallery/photos/Pieces_with_netting_10_of_15.jpg"
+    photo_file: "Pieces_with_netting_10_of_15.jpg"
     photo_credit: "Ian Byers"
 -
   artwork_name: "Odyssey 9"
@@ -620,7 +620,7 @@
     id: 61
     photo_name: "Odyssey 9"
     photo_date: " 2017-01-00"
-    photo_file: "gallery/photos/Pieces_with_netting_11_of_15.jpg"
+    photo_file: "Pieces_with_netting_11_of_15.jpg"
     photo_credit: "Ian Byers"
 -
   artwork_name: "Odyssey 10"
@@ -633,6 +633,6 @@
     id: 62
     photo_name: "Odyssey 10"
     photo_date: " 2017-01-00"
-    photo_file: "gallery/photos/Pieces_with_netting_15_of_15.jpg"
+    photo_file: "Pieces_with_netting_15_of_15.jpg"
     photo_credit: "Ian Byers"
 
