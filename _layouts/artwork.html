@@ -1,0 +1,29 @@
+---
+layout: base
+---
+{% assign gallery = site.data.galleries[page.gallery_index] %}
+{% assign artwork = site.data.artworks[page.artwork_index] %}
+{% assign photos = artwork.photos %}
+{% assign main_photo_index = page.photo_index or artwork.artwork_photo %}
+{% assign main_photo = artwork.photos[main_photo_index] %}
+<div class="artworkImages">
+  <div class="mainImage">
+    <img src="/public/images/gallery/photos/{{ main_photo.photo_file }}" alt="{{ main_photo.photo_name}}" />
+    <a href="/galleries/{{ gallery.slug }}/artworks/{{ artwork.id }}/photos/{{ main_photo.id }}">View full size image</a>
+  </div>
+  <ul class="additionalImages">
+  {% for photo in photos %}
+    {% if photo.id == main_photo.id %}
+    <li class="selected"><img src="/public/images/gallery/photos/90x90/{{ photo.photo_file }}" alt="{{ photo.photo_name }}" /></li>
+    {% else %}
+    <li><a href="/galleries/{{ gallery.slug }}/artworks/{{ artwork.id }}/photos/{{ photo.id }}"><img src="/public/images/gallery/photos/90x90/{{ photo.photo_file }}" alt="{{ photo.photo_name }}" /></a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
+<dl class="info">
+  <div><dt>Gallery</dt><dd><a href="/galleries/{{ gallery.slug }}/">{{ gallery.name }}</a></dd></div>
+  <div><dt>Date</dt><dd>{% if artwork.date %} {{ artwork.date }} {% else %} &nbsp; {% endif %}</dd</div>
+  <div><dt>Dimensions</dt><dd>{{ artwork.dimensions }}</dd></div>
+  <div><dt>Materials</dt><dd>{{ artwork.materials }}</dd></div>
+</dl>
