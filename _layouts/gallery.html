@@ -11,7 +11,7 @@ bodyclass: gallery
   {% assign photo = artwork.photos[artwork.artwork_photo] %}
     <li>
       <a href="/galleries/{{ gallery.slug }}/artworks/{{ artwork.id }}">
-      <img src="/public/images/gallery/photos/{{ photo.photo_file }}" alt="{{ photo.photo_name }}" width="200" height="200" />
+      <img src="/public/images/gallery/photos/200x200/{{ photo.photo_file }}" alt="{{ photo.photo_name }}" width="200" />
         {{ artwork.artwork_name }}
       </a>
     </li>
