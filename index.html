@@ -3,8 +3,9 @@ title: Ian Byers Ceramics
 permalink: /
 layout: base
 ---
-<a class="centrepiece" href="/galleries/{{ site.data.galleries[4].slug }}/32/photos/1">
-  <img src="/public/images/{{ site.data.artworks[31].photos[0].photo_file }}" alt="{{ site.data.artworks[31].photos[0].photo_name }}" width="600" height="600" />
+{% assign artwork = site.data.artworks[31] %}
+<a class="centrepiece" href="/galleries/{{ site.data.galleries[4].slug }}/{{ artwork.id }}/photos/">
+  <img src="/public/images/gallery/photos/600x600/{{ artwork.photos[0].photo_file }}" alt="{{ artwork.photos[0].photo_name }}" width="600" />
 </a>
 <div class="sidepiece">
     <h2><a href="/galleries">Galleries</a></h2>
