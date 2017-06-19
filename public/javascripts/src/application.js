@@ -1,3 +1,6 @@
+//= include ./jquery-1.9.1.min.js
+//= include ./modernizr-2.6.2-custom.min.js
+
 var IBC = IBC || {};
 
 IBC.slideshow = (function () {

@@ -1,29 +1,29 @@
 var gulp = require('gulp');
-var uglify = require('gulp-uglify');
+var filelog = require('gulp-filelog');
+var uglifyJS = require('gulp-uglify');
+var uglifyCSS = require('gulp-uglifycss');
+var include = require('gulp-include');
 var deleteFiles = require('del');
 var sourcemaps = require('gulp-sourcemaps');
 
 // Paths
-jsFolder = 'public/javascripts/';
-cssFolder = 'public/stylesheets/';
+var root = __dirname + '/';
+var jsFolder = root + 'public/javascripts/';
+var cssFolder = root + 'public/stylesheets/';
 
 // JavaScript paths
-jsSourceFiles = [
-  'jquery-1.9.1.min.js',
-  'modernizr-2.6.2-custom.min.js',
-  'main.js'
-];
-jsDistributionFile = ['application.js'];
+var jsSourceFile = jsFolder + 'src/application.js';
+var jsDistributionFile = jsFolder + 'dist/application.js';
+var jsDistributionFolder = jsFolder + 'dist';
 
 // CSS paths
-cssScreenSourceFiles = ['main.css'];
-cssPrintSourceFiles = ['print.css'];
-cssSourceFiles = cssScreenSourceFiles.concat(cssPrintSourceFiles);
-cssScreenDistributionFile = 'application.css';
-cssPrintDistributionFile = 'application-print.css';
+var cssSourceFiles = cssFolder + 'src/*';
+var cssDistributionFolder = cssFolder + 'dist';
+var cssScreenDistributionFile = cssFolder + 'dist/application.css';
+var cssPrintDistributionFile = cssFolder + 'dist/application-print.css';
 
 // Configuration
-var uglifyOptions = {
+var uglifyJSOptions = {
   mangle: false,
   output: {
     beautify: true,
@@ -63,59 +63,39 @@ gulp.task('clean', function (cb) {
     };
   };
 
-  deleteFiles(jsSourceFiles, logOutputFor('JavaScript'));
-  deleteFiles(cssSourceFiles, logOutputFor('CSS'));
+  deleteFiles(jsDistributionFolder + '/*').then(logOutputFor('JavaScript'));
+  deleteFiles(cssDistributionFolder + '/*').then(logOutputFor('CSS'));
 });
 
 gulp.task('js', function () {
-  var stream = gulp.src(jsSourceFiles)
+  var stream = gulp.src(jsSourceFile)
     .pipe(filelog('Compressing JavaScript files'))
     .pipe(include())
     .pipe(sourcemaps.init())
-    .pipe(uglify(
-      uglifyOptions[environment]
+    .pipe(uglifyJS(
+      uglifyJSOptions
     ))
     .pipe(sourcemaps.write('./maps'))
-    .pipe(gulp.dest(jsFolder + jsDistributionFile));
+    .pipe(gulp.dest(jsDistributionFolder));
 
   stream.on('end', function () {
-    console.log('💾 Compressed JavaScript saved as ' + jsFolder + jsDistributionFile);
+    console.log('💾 Compressed JavaScript saved as ' + jsDistributionFile);
   });
 
   return stream;
 });
 
-gulp.task('cssScreen', function () {
-  var stream = gulp.src(cssScreenSourceFiles)
-    .pipe(filelog('Compressing CSS files for screen'))
+gulp.task('css', function () {
+  var stream = gulp.src(cssSourceFiles)
+    .pipe(filelog('Compressing CSS files'))
     .pipe(include())
     .pipe(sourcemaps.init())
-    .pipe(uglify(
-      uglifyOptions[environment]
-    ))
+    .pipe(uglifyCSS())
     .pipe(sourcemaps.write('./maps'))
-    .pipe(gulp.dest(cssFolder + cssScreenDistributionFile));
+    .pipe(gulp.dest(cssDistributionFolder));
 
   stream.on('end', function () {
-    console.log('💾 Compressed CSS saved as ' + cssFolder + cssScreenDistributionFile);
-  });
-
-  return stream;
-});
-
-gulp.task('cssPrint', function () {
-  var stream = gulp.src(cssPrintSourceFiles)
-    .pipe(filelog('Compressing CSS files for screen'))
-    .pipe(include())
-    .pipe(sourcemaps.init())
-    .pipe(uglify(
-      uglifyOptions[environment]
-    ))
-    .pipe(sourcemaps.write('./maps'))
-    .pipe(gulp.dest(cssFolder + cssPrintDistributionFile));
-
-  stream.on('end', function () {
-    console.log('💾 Compressed CSS saved as ' + cssFolder + cssPrintDistributionFile);
+    console.log('💾 Compressed CSS saved as ' + cssScreenDistributionFile + ' and ' + cssPrintDistributionFile);
   });
 
   return stream;
@@ -123,7 +103,7 @@ gulp.task('cssPrint', function () {
 
 gulp.task('watch', ['build'], function () {
   var jsWatcher = gulp.watch([ jsFolder + '*.js' ], ['js']);
-  var cssWatcher = gulp.watch([ cssFolder + '*.css' ], ['cssScreen', 'cssPrint']);
+  var cssWatcher = gulp.watch([ cssFolder + '*.css' ], ['css']);
   var notice = function (event) {
     console.log('File ' + event.path + ' was ' + event.type + ' running tasks...');
   };
@@ -135,8 +115,7 @@ gulp.task('watch', ['build'], function () {
 gulp.task(
   'compile',
   function() {
-    gulp.start('cssScreen');
-    gulp.start('cssPrint');
+    gulp.start('css');
     gulp.start('js');
   }
 );
