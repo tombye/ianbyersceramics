@@ -3220,7 +3220,7 @@ IBC.slideshow = function() {
     createControls: function() {
       var $control, $controls = $('<ul class="controls clearfix" role="tablist" aria-label="Slideshow controls"/>'), rowLen = this.orientation === "portrait" ? 4 : 5, i, j;
       for (i = 0, j = this.slides.length; i < j; i++) {
-        $control = $('<li><a role="tab" aria-selected="false" href="#"><img src="/static/img/process_and_material/' + this.keyword + (i + 1) + '_90x90.jpg" alt="Slide ' + (i + 1) + '" /></a></li>');
+        $control = $('<li><a role="tab" aria-selected="false" href="#"><img src="/public/images/process_and_material/90x90/' + this.keyword + (i + 1) + '.jpg" alt="Slide ' + (i + 1) + '" /></a></li>');
         if (i > 0 && (i + 1) % rowLen === 0) {
           $control.addClass("last");
         }
