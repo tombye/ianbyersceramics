@@ -4,7 +4,7 @@ layout: base
 {% assign gallery = site.data.galleries[page.gallery_index] %}
 {% assign artwork = site.data.artworks[page.artwork_index] %}
 {% assign photos = artwork.photos %}
-{% assign main_photo_index = page.photo_index %}
+{% assign main_photo_index = page.artwork_photo %}
 {% unless main_photo_index %}
   {% assign main_photo_index = artwork.artwork_photo %}
 {% endunless %}

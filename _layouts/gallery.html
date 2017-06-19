@@ -4,7 +4,7 @@ bodyclass: gallery
 ---
 <p class="intro">Artworks in this gallery</p>
 <ul>
-{% assign gallery = site.data.galleries[page.gallery_index] %}
+{% assign gallery = site.data.galleries[page.index] %}
 {% assign artwork_indices = gallery.artworks %}
 {% for index in artwork_indices %}
   {% assign artwork = site.data.artworks[index] %}

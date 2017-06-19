@@ -26,7 +26,6 @@ module SiteData
     end
 
     def template_str
-      str = ''
       File.read(@templates_dir.join('gallery.yml.erb'))
     end
 

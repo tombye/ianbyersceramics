@@ -1,0 +1,17 @@
+---
+layout: artwork
+title: <%= artwork_name %> | <%= gallery_name %> | Ian Byers
+gallery_index: <%= gallery_index %>
+artwork_index: <%= artwork_index %>
+artwork_photo: <%= artwork_photo %>
+breadcrumb: |
+  <header class="page-header">
+      <h1><%= artwork_name %></h1>
+      <ul class="breadcrumb" role="breadcrumbs">
+          <li><a href="/">Home</a></li>
+          <li><a href="/galleries/">Galleries</a></li>
+          <li><a href="/galleries/<%= gallery_slug %>/"><%= gallery_name %></a></li>
+          <li><%= artwork_name %></li>
+      </ul>
+  </header>
+---
