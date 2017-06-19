@@ -4,7 +4,7 @@ module SiteData
 
     def initialize(idx)
       @data_dir = Pathname.new(File.expand_path('../../../_data', __FILE__))
-      @idx = idx
+      @idx = idx.to_i
       @_data = load()
 
       unless @_data.nil?
