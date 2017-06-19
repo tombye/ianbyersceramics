@@ -217,9 +217,9 @@ img.inset-left {
 
 @font-face {
     font-family: 'AllerLightRegular';
-    src: url('http://ianbyersceramics.static/fonts/aller/aller_lt-webfont.eot?') format('eot'),
-         url('http://ianbyersceramics.static/fonts/aller/aller_lt-webfont.woff') format('woff'),
-         url('http://ianbyersceramics.static/fonts/aller/aller_lt-webfont.ttf') format('truetype'),
+    src: url('/public/fonts/aller/aller_lt-webfont.eot?') format('eot'),
+         url('/public/fonts/aller/aller_lt-webfont.woff') format('woff'),
+         url('/public/fonts/aller/aller_lt-webfont.ttf') format('truetype'),
     font-weight: normal;
     font-style: normal;
 }
@@ -481,7 +481,7 @@ section#content .sidepiece p {
 
 .breadcrumb li a {
 	padding-right: 24px;
-	background: transparent url("/static/img/breadcrumb-arrow.png") right center no-repeat;
+	background: transparent url("/public/images/breadcrumb-arrow.png") right center no-repeat;
 }
 
 /* end of Page header */
