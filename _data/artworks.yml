@@ -430,80 +430,80 @@
 -
   artwork_name: "Yingge residency"
   dimensions: "N/A"
-  artwork_materials: " N/A"
+  artwork_materials: "N/A"
   id: 28
   artwork_photo: 0
   photos:
   -
     id: 41
     photo_name: "Works in progress 1"
-    photo_date: " 2013-09-00"
+    photo_date: "2013-09-00"
     photo_file: "IMG_0112.jpg"
     photo_credit: "Ian Byers"
   -
     id: 42
     photo_name: "Works in progress 2"
-    photo_date: " 2013-09-00 "
+    photo_date: "2013-09-00 "
     photo_file: "IMG_0116.jpg"
     photo_credit: "Ian Byers"
   -
     id: 43
     photo_name: "Works in progress 3"
     photo_date: "2013-09-00"
-    photo_file: " IMG_0118.jpg"
+    photo_file: "IMG_0118.jpg"
     photo_credit: "Ian Byers"
   -
     id: 44
     photo_name: "Works in progress 4"
-    photo_date: " 2013-09-00"
+    photo_date: "2013-09-00"
     photo_file: "IMG_0343.jpg"
     photo_credit: "Ian Byers"
   -
     id: 45
     photo_name: "Works in progress 5"
-    photo_date: " 2013-09-00"
+    photo_date: "2013-09-00"
     photo_file: "IMG_9562.jpg"
     photo_credit: "Ian Byers"
   -
     id: 46
     photo_name: "Works in progress 6"
-    photo_date: " 2013-09-00"
+    photo_date: "2013-09-00"
     photo_file: "IMG_9573.jpg"
     photo_credit: "Ian Byers"
   -
     id: 47
     photo_name: "Works in progress 7"
-    photo_date: " 2013-09-00"
+    photo_date: "2013-09-00"
     photo_file: "IMG_9596.jpg"
     photo_credit: "Ian Byers"
   -
     id: 48
     photo_name: "Works in progress 8"
-    photo_date: " 2013-09-00"
+    photo_date: "2013-09-00"
     photo_file: "IMG_9608.jpg"
     photo_credit: "Ian Byers"
   -
     id: 49
     photo_name: "Works in progress 9"
-    photo_date: " 2013-09-00"
+    photo_date: "2013-09-00"
     photo_file: "IMG_9616.jpg"
     photo_credit: "Ian Byers"
   -
     id: 50
     photo_name: "Works in progress 10"
-    photo_date: " 2013-09-00"
+    photo_date: "2013-09-00"
     photo_file: "IMG_9621.jpg"
     photo_credit: "Ian Byers"
   -
     id: 51
     photo_name: "Works in progress 11"
-    photo_date: " 2013-09-00"
+    photo_date: "2013-09-00"
     photo_file: "P1030027.jpg"
     photo_credit: "Ian Byers"
   -
     id: 52
     photo_name: "Ian in the Yingge studio"
-    photo_date: " 2013-09-00"
+    photo_date: "2013-09-00"
     photo_file: "P1030037.jpg"
     photo_credit: "Ian Byers"
 -
@@ -516,7 +516,7 @@
   -
     id: 53
     photo_name: "Odyssey 1"
-    photo_date: " 2017-01-00"
+    photo_date: "2017-01-00"
     photo_file: "image1.JPG"
     photo_credit: "Ian Byers"
 -
@@ -529,7 +529,7 @@
   -
     id: 54
     photo_name: "Odyssey 2"
-    photo_date: " 2017-01-00"
+    photo_date: "2017-01-00"
     photo_file: "image2.JPG"
     photo_credit: "Ian Byers"
 -
@@ -542,7 +542,7 @@
   -
     id: 55
     photo_name: "Odyssey 3"
-    photo_date: " 2017-01-00"
+    photo_date: "2017-01-00"
     photo_file: "image3.JPG"
     photo_credit: "Ian Byers"
 -
@@ -555,7 +555,7 @@
   -
     id: 56
     photo_name: "Odyssey 4"
-    photo_date: " 2017-01-00"
+    photo_date: "2017-01-00"
     photo_file: "Pieces_with_netting_1_of_15.jpg"
     photo_credit: "Ian Byers"
 -
@@ -568,7 +568,7 @@
   -
     id: 57
     photo_name: "Odyssey 5"
-    photo_date: " 2017-01-00"
+    photo_date: "2017-01-00"
     photo_file: "Pieces_with_netting_2_of_15.jpg"
     photo_credit: "Ian Byers"
 -
@@ -581,7 +581,7 @@
   -
     id: 58
     photo_name: "Odyssey 6"
-    photo_date: " 2017-01-00"
+    photo_date: "2017-01-00"
     photo_file: "Pieces_with_netting_6_of_15.jpg"
     photo_credit: "Ian Byers"
 -
@@ -594,7 +594,7 @@
   -
     id: 59
     photo_name: "Odyssey 7"
-    photo_date: " 2017-01-00"
+    photo_date: "2017-01-00"
     photo_file: "Pieces_with_netting_8_of_15.jpg"
     photo_credit: "Ian Byers"
 -
@@ -607,7 +607,7 @@
   -
     id: 60
     photo_name: "Odyssey 8"
-    photo_date: " 2017-01-00"
+    photo_date: "2017-01-00"
     photo_file: "Pieces_with_netting_10_of_15.jpg"
     photo_credit: "Ian Byers"
 -
@@ -620,7 +620,7 @@
   -
     id: 61
     photo_name: "Odyssey 9"
-    photo_date: " 2017-01-00"
+    photo_date: "2017-01-00"
     photo_file: "Pieces_with_netting_11_of_15.jpg"
     photo_credit: "Ian Byers"
 -
@@ -633,7 +633,7 @@
   -
     id: 62
     photo_name: "Odyssey 10"
-    photo_date: " 2017-01-00"
+    photo_date: "2017-01-00"
     photo_file: "Pieces_with_netting_15_of_15.jpg"
     photo_credit: "Ian Byers"
 
