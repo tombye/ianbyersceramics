@@ -146,14 +146,16 @@ h1, h2, h3 {
 h2, h3 { clear: both; }
 
 h2,
-article h1 {
+article h1,
+.heading-level-1 {
 	font-size: 1.99em; /* 24px */
 	padding-bottom: 0.525em; /* 16.8px */
 	padding-top: 0.525em; /* 16.8px */
 }
 
 h3,
-article h2 {
+article h2,
+.heading-level-2 {
 	font-size: 1.499em; /* 18px */
 	padding-bottom: 0.933em; /* 16.8px */
 }
@@ -839,6 +841,15 @@ figure {
 
 .video video {
     width: 100%;
+}
+
+.video-copyright {
+    text-align: right;
+    font-size: 0.75em;
+}
+
+.video .video-copyright {
+    padding-bottom: 0;
 }
 
 .no-js .video-transcript {
