@@ -2,21 +2,25 @@
   "name": "ianbyersceramics",
   "version": "0.0.1",
   "description": "Ian Byers Ceramics - Artworks from Ian Byers' studio, news of exhibitions and information about the artist and his practice",
+  "main": "index.js",
   "engines": {
     "node": ">=6.9.5"
   },
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
-    "minifycss": "postcss public/stylesheets/src/application.css > public/stylesheets/dist/application.css"
+    "build": "node node_modules/gulp/bin/gulp.js build"
   },
   "author": "Tom Byers",
   "license": "ISC",
-  "dependencies": {
-    "cssnano": "^4.0.0-rc.2",
-    "postcss-cli": "^4.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tombye/ianbyersceramics.git"
-  },
-  "private": true
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-filelog": "^0.4.1",
+    "gulp-include": "^2.3.1",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uglifycss": "^1.0.8"
+  }
 }
