@@ -219,7 +219,7 @@ img.inset-left {
     font-family: 'AllerLightRegular';
     src: url('/public/fonts/aller/aller_lt-webfont.eot?') format('eot'),
          url('/public/fonts/aller/aller_lt-webfont.woff') format('woff'),
-         url('/public/fonts/aller/aller_lt-webfont.ttf') format('truetype'),
+         url('/public/fonts/aller/aller_lt-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -835,6 +835,10 @@ figure {
 
 .video {
     margin-bottom: 2em;
+}
+
+.video video {
+    width: 100%;
 }
 
 .no-js .video-transcript {
