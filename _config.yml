@@ -30,3 +30,6 @@ exclude:
   - docs
   - scripts
   - node_modules
+  - build.sh
+  - watch.sh
+  - deploy.sh
