@@ -1,4 +1,6 @@
-# Directory layout
+# Guide
+
+## Directory layout
 
 Full notes are in https://jekyllrb.com/docs/structure/.
 
@@ -16,4 +18,13 @@ Here's a quick overview.
 | _site | This is where the generated site will be placed (by default) once Jekyll is done transforming it. It’s probably a good idea to add this to your .gitignore file. |
 | .jekyll-metadata | This helps Jekyll keep track of which files have not been modified since the site was last built, and which files will need to be regenerated on the next build. This file will not be included in the generated site. It’s probably a good idea to add this to your .gitignore file. |
 | index.html or index.md and other HTML, Markdown, Textile files | Provided that the file has a YAML Front Matter section, it will be transformed by Jekyll. The same will happen for any .html, .markdown,  .md, or .textile file in your site’s root directory or directories not listed above. |
+| scripts/render_gallery_yml.rb | script to render the markdown files for a gallery from the YAML
+for the gallery and its artworks |
 | Other Files/Folders | Every other directory and file except for those listed above—such as  css and images folders,  favicon.ico files, and so forth—will be copied verbatim to the generated site. There are plenty of sites already using Jekyll if you’re curious to see how they’re laid out. |
+
+## Adding galleries
+
+To add a new gallery, first create entries for each artwork in `_data/artworks.yml` and then the
+meta for the gallery in `_data/gallery.yml`.
+
+Run `scripts/render_gallery_yml` with the index of the gallery.
