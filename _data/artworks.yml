@@ -636,4 +636,250 @@
     photo_date: "2017-01-00"
     photo_file: "Pieces_with_netting_15_of_15.jpg"
     photo_credit: "Ian Byers"
-
+-
+  artwork_name: "Vibration 1"
+  dimensions: "10cm x 13cm"
+  artwork_materials: "Indian ink drawing"
+  id: 39
+  artwork_photo: 0
+  photos:
+  -
+    id: 63
+    photo_name: "Vibration 1"
+    photo_date: ""
+    photo_file: "order_and_disorder_1.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Vibration 2"
+  dimensions: "10cm x 13cm"
+  artwork_materials: ""
+  id: 40
+  artwork_photo: 0
+  photos:
+  -
+    id: 64
+    photo_name: "Vibration 2"
+    photo_date: ""
+    photo_file: "order_and_disorder_2.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Dance 1"
+  dimensions: "10cm x 13cm"
+  artwork_materials: ""
+  id: 41
+  artwork_photo: 0
+  photos:
+  -
+    id: 65
+    photo_name: "Dance 1"
+    photo_date: ""
+    photo_file: "order_and_disorder_3.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Dance 2"
+  dimensions: "10cm x 13cm"
+  artwork_materials: ""
+  id: 42
+  artwork_photo: 0
+  photos:
+  -
+    id: 66
+    photo_name: "Dance 2"
+    photo_date: ""
+    photo_file: "order_and_disorder_4.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Spires and Domes"
+  dimensions: "21cm x 30cm"
+  artwork_materials: "photo"
+  id: 43
+  artwork_photo: 0
+  photos:
+  -
+    id: 67
+    photo_name: "Spires and Domes"
+    photo_date: ""
+    photo_file: "order_and_disorder_5.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Barrocco"
+  dimensions: "45cm x 31cm"
+  artwork_materials: "Indian ink drawing"
+  id: 44
+  artwork_photo: 0
+  photos:
+  -
+    id: 68
+    photo_name: "Barrocco"
+    photo_date: ""
+    photo_file: "order_and_disorder_6.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Tower 1"
+  dimensions: "90cm x 20cm"
+  artwork_materials: "Print and ink drawing"
+  id: 45
+  artwork_photo: 0
+  photos:
+  -
+    id: 69
+    photo_name: "Tower 1"
+    photo_date: ""
+    photo_file: "order_and_disorder_7.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Tower 2"
+  dimensions: "90cm x 20cm"
+  artwork_materials: "Print and ink drawing"
+  id: 46
+  artwork_photo: 0
+  photos:
+  -
+    id: 70
+    photo_name: "Tower 2"
+    photo_date: ""
+    photo_file: "order_and_disorder_8.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Spire"
+  dimensions: "60cm x 20cm"
+  artwork_materials: ""
+  id: 47
+  artwork_photo: 0
+  photos:
+  -
+    id: 71
+    photo_name: "Spire"
+    photo_date: ""
+    photo_file: "order_and_disorder_9.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Airiel"
+  dimensions: "60cm x 20cm"
+  artwork_materials: "Print and ink drawing"
+  id: 48
+  artwork_photo: 0
+  photos:
+  -
+    id: 72
+    photo_name: "Airiel"
+    photo_date: ""
+    photo_file: "order_and_disorder_10.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Pier 1"
+  dimensions: "21cm x 30cm"
+  artwork_materials: "Indian ink and iron drawing"
+  id: 49
+  artwork_photo: 0
+  photos:
+  -
+    id: 73
+    photo_name: "Pier 1"
+    photo_date: ""
+    photo_file: "order_and_disorder_11.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Pier 2"
+  dimensions: "20cm x 15cm"
+  artwork_materials: "Indian ink and iron drawing"
+  id: 50
+  artwork_photo: 0
+  photos:
+  -
+    id: 74
+    photo_name: "Pier 2"
+    photo_date: ""
+    photo_file: "order_and_disorder_12.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Pier 3"
+  dimensions: "20cm x 15cm"
+  artwork_materials: "Indian ink and iron drawing"
+  id: 51
+  artwork_photo: 0
+  photos:
+  -
+    id: 75
+    photo_name: "Pier 3"
+    photo_date: ""
+    photo_file: "order_and_disorder_13.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Pier 4"
+  dimensions: "20cm x 15cm"
+  artwork_materials: "Indian ink and iron drawing"
+  id: 52
+  artwork_photo: 0
+  photos:
+  -
+    id: 76
+    photo_name: "Pier 4"
+    photo_date: ""
+    photo_file: "order_and_disorder_14.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Reflect"
+  dimensions: "45cm x 31cm"
+  artwork_materials: "Indian ink drawing"
+  id: 53
+  artwork_photo: 0
+  photos:
+  -
+    id: 77
+    photo_name: "Reflect"
+    photo_date: ""
+    photo_file: "order_and_disorder_15.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Conversation"
+  dimensions: "45cm x 31cm"
+  artwork_materials: "Indian ink drawing"
+  id: 54
+  artwork_photo: 0
+  photos:
+  -
+    id: 78
+    photo_name: "Conversation"
+    photo_date: ""
+    photo_file: "order_and_disorder_16.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Lost and found 1"
+  dimensions: "31cm max"
+  artwork_materials: "Stoneware, porcelain and found"
+  id: 55
+  artwork_photo: 0
+  photos:
+  -
+    id: 79
+    photo_name: "Lost and found 1"
+    photo_date: ""
+    photo_file: "order_and_disorder_17.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Lost and found 2"
+  dimensions: "55cm max"
+  artwork_materials: "Stoneware and found material"
+  id: 56
+  artwork_photo: 0
+  photos:
+  -
+    id: 80
+    photo_name: "Lost and found 2"
+    photo_date: ""
+    photo_file: "order_and_disorder_18.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Lost and found 3"
+  dimensions: "85cm max"
+  artwork_materials: "Stoneware and found material"
+  id: 57
+  artwork_photo: 0
+  photos:
+  -
+    id: 81
+    photo_name: "Lost and found 3"
+    photo_date: ""
+    photo_file: "order_and_disorder_19.jpg"
+    photo_credit: ""

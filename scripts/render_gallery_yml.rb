@@ -33,7 +33,11 @@ else
   slug = ARGV[0]
   gallery = SiteData::Gallery.new(slug)
 
-  # render gallery index into root and /artworks root
+  # make folders for gallery and its artworks if not already there
+  mkdir_if_doesnt_exist(galleries_dir.join("#{gallery.slug}"))
+  mkdir_if_doesnt_exist(galleries_dir.join("#{gallery.slug}", "artworks"))
+
+  # render gallery index into /<gallery> and /<gallery>/artworks
   gallery_index_path = galleries_dir.join("#{gallery.slug}", "index.html")
   artworks_index_path = galleries_dir.join("#{gallery.slug}", "artworks", "index.html")
 
