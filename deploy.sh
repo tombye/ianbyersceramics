@@ -14,7 +14,7 @@ EOF
 JUST_STATIC_ASSETS=0
 JUST_WEBAPP=0
 
-while getopts "hd" OPTION; do
+while getopts "hsw" OPTION; do
   case $OPTION in
     h )
       usage
@@ -44,7 +44,7 @@ bundle exec jekyll build
 if [ $JUST_WEBAPP -eq 0 ]; then
   echo "Copy static asset files to remote host"
   # 3. rsync static assets to public folder on remote host
-  rsync -avz  _site/public "webfactional:$WEBAPPS_DIR/ianbyersceramics_public"
+  rsync -avz  _site/public/ "webfactional:$WEBAPPS_DIR/ianbyersceramics_public"
 fi
 
 if [ $JUST_STATIC_ASSETS -eq 0 ]; then
