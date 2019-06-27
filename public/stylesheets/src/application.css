@@ -561,6 +561,10 @@ dl dd {
     width: 70%;
 }
 
+dt {
+  clear: right;
+}
+
 @media (max-width: 536px) {
     dl dt,
     dl dd {
