@@ -91,3 +91,10 @@
   - 54
   - 55
   - 56
+-
+  id: 7
+  name: "Covid year"
+  slug: covid-year
+  photo_artwork: 57
+  artworks:
+  - 57

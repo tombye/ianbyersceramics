@@ -883,3 +883,16 @@
     photo_date: ""
     photo_file: "order_and_disorder_19.jpg"
     photo_credit: ""
+-
+  artwork_name: "Summer"
+  dimensions: ""
+  artwork_materials: ""
+  id: 58
+  artwork_photo: 0
+  photos:
+  -
+    id: 82
+    photo_name: "Summer"
+    photo_date: "24-05-2020"
+    photo_file: "summer_24_may_2020.jpg"
+    photo_credit: ""
