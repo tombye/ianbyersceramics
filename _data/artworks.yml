@@ -896,3 +896,60 @@
     photo_date: "24-05-2020"
     photo_file: "summer_24_may_2020.jpg"
     photo_credit: ""
+-
+  artwork_name: "Entangle"
+  dimensions: ""
+  artwork_materials: ""
+  id: 59
+  artwork_photo: 0
+  photos:
+  -
+    id: 83
+    photo_name: "Entangle"
+    photo_date: "25-06-2020"
+    photo_file: "entangle_1_15_july_2020.jpg"
+    photo_credit: ""
+  -
+    id: 84
+    photo_name: "Entangle"
+    photo_date: "15-07-2020"
+    photo_file: "entangle_2_15_july_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Figure"
+  dimensions: ""
+  artwork_materials: ""
+  id: 60
+  artwork_photo: 2
+  photos:
+  -
+    id: 85
+    photo_name: "Figure, top view"
+    photo_date: "02-06-2020"
+    photo_file: "figure_top_3_june.jpg"
+    photo_credit: ""
+  -
+    id: 86
+    photo_name: "Figure, front side"
+    photo_date: "02-06-2020"
+    photo_file: "figure_back_3_june_2020.jpg"
+    photo_credit: ""
+  -
+    id: 87
+    photo_name: "Figure, side view"
+    photo_date: "03-07-2020"
+    photo_file: "figure_side_3_june_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Dangers"
+  dimensions: ""
+  artwork_materials: ""
+  id: 61
+  artwork_photo: 0
+  photos:
+  -
+    id: 88
+    photo_name: "Dangers"
+    photo_date: "15-07-2020"
+    photo_file: "dangers_15_july_2020.jpg"
+    photo_credit: ""
