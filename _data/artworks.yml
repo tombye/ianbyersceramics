@@ -985,3 +985,42 @@
     photo_date: "22-07-2020"
     photo_file: "fallen_toner_portrait_22_july_2020.jpg"
     photo_credit: ""
+-
+  artwork_name: "Lost and found"
+  dimensions: ""
+  artwork_materials: ""
+  id: 64
+  artwork_photo: 0
+  photos:
+  -
+    id: 92
+    photo_name: "Lost and found"
+    photo_date: "28-07-2020"
+    photo_file: "lost_and_found.JPG"
+    photo_credit: ""
+-
+  artwork_name: "Untitled"
+  dimensions: ""
+  artwork_materials: ""
+  id: 65
+  artwork_photo: 0
+  photos:
+  -
+    id: 93
+    photo_name: "Untitled"
+    photo_date: "31-07-2020"
+    photo_file: "untitled_31_july_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Untitled"
+  dimensions: ""
+  artwork_materials: ""
+  id: 66
+  artwork_photo: 0
+  photos:
+  -
+    id: 94
+    photo_name: "Untitled"
+    photo_date: "02-08-2020"
+    photo_file: "untitled_2_aug_2020.jpg"
+    photo_credit: ""
