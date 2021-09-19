@@ -953,3 +953,35 @@
     photo_date: "15-07-2020"
     photo_file: "dangers_15_july_2020.jpg"
     photo_credit: ""
+-
+  artwork_name: "Untitled"
+  dimensions: ""
+  artwork_materials: ""
+  id: 62
+  artwork_photo: 0
+  photos:
+  -
+    id: 89
+    photo_name: "Untitled"
+    photo_date: "15-07-2020"
+    photo_file: "untitled_15_july_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Fallen toner"
+  dimensions: ""
+  artwork_materials: ""
+  id: 63
+  artwork_photo: 0
+  photos:
+  -
+    id: 90
+    photo_name: "Fallen toner - landscape"
+    photo_date: "22-07-2020"
+    photo_file: "fallen_toner_landscape_22_july_2020.jpg"
+    photo_credit: ""
+  -
+    id: 91
+    photo_name: "Fallen toner - portrait"
+    photo_date: "22-07-2020"
+    photo_file: "fallen_toner_portrait_22_july_2020.jpg"
+    photo_credit: ""
