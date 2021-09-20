@@ -1,14 +1,15 @@
 ---
-layout: base
-gallery: "{{ site.data.galleries[page.index] }}"
-title: "{{ page.gallery }} | Galleries | Ian Byers Ceramics"
+layout: base_v2
+bodyclass: gallery
+gallery: "{{ site.data.galleries[page.index].name }}"
+title: "{{ layout.gallery | flatify }} | Galleries | Ian Byers Ceramics"
 breadcrumb: |
   <header class="page-header">
-      <h1>{{ page.gallery.name }} </h1>
+      <h1>{{ layout.gallery | flatify }}</h1>
       <ul class="breadcrumb" role="breadcrumbs">
         <li><a href="/">Home</a></li>
         <li><a href="/galleries/">Galleries</a></li>
-        <li>{{ page.gallery.name }}</li>
+        <li>{{ layout.gallery | flatify }}</li>
       </ul>
   </header>
 ---

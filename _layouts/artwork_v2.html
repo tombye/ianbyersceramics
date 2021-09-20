@@ -1,0 +1,47 @@
+---
+layout: base_v2
+bodyclass: artwork
+gallery: "{{ site.data.galleries[gallery_index].name }}"
+gallery_slug: "{{ site.data.galleries[gallery_index].slug }}"
+artwork: "{{ site.data.artworks[page.artwork_index].name }}"
+title: "{{ layout.artwork | flatify }} | {{ layout.gallery | flatify }} | Ian Byers Ceramics"
+breadcrumb: |
+  <header class="page-header">
+      <h1>{{ layout.gallery | flatify }} </h1>
+      <ul class="breadcrumb" role="breadcrumbs">
+        <li><a href="/">Home</a></li>
+        <li><a href="/galleries/">Galleries</a></li>
+        <li><a href="/galleries/{{ layout.gallery_slug | flatify }}">{{ layout.gallery | flatify }}</a></li>
+        <li>{{ layout.artwork | flatify }}</li>
+      </ul>
+  </header>
+---
+{% assign gallery = site.data.galleries[page.gallery_index] %}
+{% assign artwork = site.data.artworks[page.artwork_index] %}
+{% assign photos = artwork.photos %}
+{% assign main_photo_index = page.artwork_photo %}
+{% unless main_photo_index %}
+  {% assign main_photo_index = artwork.artwork_photo %}
+{% endunless %}
+{% assign main_photo = artwork.photos[main_photo_index] %}
+<div class="artworkImages">
+  <div class="mainImage">
+    <img src="/public/images/gallery/photos/600x600/{{ main_photo.photo_file }}" alt="{{ main_photo.photo_name}}" width="600" />
+    <a href="/public/images/gallery/photos/{{ main_photo.photo_file }}">View full size image</a>
+  </div>
+  <ul class="additionalImages">
+  {% for photo in photos %}
+    {% if photo.id == main_photo.id %}
+    <li class="selected"><img src="/public/images/gallery/photos/90x90/{{ photo.photo_file }}" alt="{{ photo.photo_name }}" width="90" /></li>
+    {% else %}
+    <li><a href="/galleries/{{ gallery.slug }}/artworks/{{ artwork.id }}/photos/{{ photo.id }}"><img src="/public/images/gallery/photos/90x90/{{ photo.photo_file }}" alt="{{ photo.photo_name }}" width="90" /></a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
+<dl class="info">
+  <div><dt>Gallery</dt><dd><a href="/galleries/{{ gallery.slug }}/">{{ gallery.name }}</a></dd></div>
+  <div><dt>Date</dt><dd>{% if artwork.date %} {{ artwork.date }} {% else %} &nbsp; {% endif %}</dd</div>
+  <div><dt>Dimensions</dt><dd>{{ artwork.dimensions }}</dd></div>
+  <div><dt>Materials</dt><dd>{{ artwork.materials }}</dd></div>
+</dl>
