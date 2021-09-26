@@ -1024,3 +1024,16 @@
     photo_date: "02-08-2020"
     photo_file: "untitled_2_aug_2020.jpg"
     photo_credit: ""
+-
+  artwork_name: "Chilli creature"
+  dimensions: ""
+  artwork_materials: ""
+  id: 67
+  artwork_photo: 0
+  photos:
+  -
+    id: 95
+    photo_name: "Chilli creature"
+    photo_date: "04-08-2020"
+    photo_file: "chilli_creature_4_aug_2020.jpg"
+    photo_credit: ""
