@@ -32,7 +32,7 @@ task :default do
         unless Dir.exists?(artwork_root)
           new_artworks = true
           Dir.mkdir(artwork_root)
-          puts "make #{artwork_root}"
+          puts "make	#{artwork_root}"
           render_index(
             'artwork',
             "#{artwork_root}/index.html",
@@ -41,18 +41,18 @@ task :default do
               'artwork_index' => artwork_index
             }
           )
-          puts "render #{artwork_root}/index.html"
+          puts "render	#{artwork_root}/index.html"
           Dir.mkdir("#{artwork_root}/photos")
-          puts "make #{artwork_root}/photos"
+          puts "make	#{artwork_root}/photos"
           FileUtils.cp "#{artwork_root}/index.html", "#{artwork_root}/photos/index.html"
-          puts "copy #{artwork_root}/index.html to #{artwork_root}/photos/index.html"
+          puts "copied	#{artwork_root}/index.html to #{artwork_root}/photos/index.html"
 
           artwork['photos'].each_with_index do |photo, photo_index|
             photo_root = "#{artwork_root}/photos/#{photo['id']}"
             photo_file = "#{photo['photo_file']}"
 
             Dir.mkdir("#{photo_root}")
-            puts "make #{photo_root}"
+            puts "make	#{photo_root}"
             render_index(
               'photo',
               "#{photo_root}/index.html",
@@ -62,16 +62,20 @@ task :default do
                 'photo_index' => photo_index
               }
             )
-            puts "render #{photo_root}/index.html"
+            puts "render	#{photo_root}/index.html"
 
-            FileUtils.cp "#{photos_source}/#{photo_file}", "#{photos_dest}/#{photo_file}"
-            FileUtils.cp "#{photos_source}/90x90/#{photo_file}", "#{photos_dest}/90x90/#{photo_file}"
-            FileUtils.cp "#{photos_source}/200x200/#{photo_file}", "#{photos_dest}/200x200/#{photo_file}"
-            FileUtils.cp "#{photos_source}/600x600/#{photo_file}", "#{photos_dest}/600x600/#{photo_file}"
-            puts "copied #{photos_source}/#{photo_file} to #{photos_dest}/#{photo_file}"
-            puts "copied #{photos_source}/90x90/#{photo_file} to #{photos_dest}/90x90/#{photo_file}"
-            puts "copied #{photos_source}/200x200/#{photo_file} to #{photos_dest}/200x200/#{photo_file}"
-            puts "copied #{photos_source}/600x600/#{photo_file} to #{photos_dest}/600x600/#{photo_file}"
+            if File.exists?("#{photos_source}/#{photo_file}")
+              FileUtils.cp "#{photos_source}/#{photo_file}", "#{photos_dest}/#{photo_file}"
+              FileUtils.cp "#{photos_source}/90x90/#{photo_file}", "#{photos_dest}/90x90/#{photo_file}"
+              FileUtils.cp "#{photos_source}/200x200/#{photo_file}", "#{photos_dest}/200x200/#{photo_file}"
+              FileUtils.cp "#{photos_source}/600x600/#{photo_file}", "#{photos_dest}/600x600/#{photo_file}"
+              puts "copied	#{photos_source}/#{photo_file} to #{photos_dest}/#{photo_file}"
+              puts "copied	#{photos_source}/90x90/#{photo_file} to #{photos_dest}/90x90/#{photo_file}"
+              puts "copied	#{photos_source}/200x200/#{photo_file} to #{photos_dest}/200x200/#{photo_file}"
+              puts "copied	#{photos_source}/600x600/#{photo_file} to #{photos_dest}/600x600/#{photo_file}"
+            else
+              puts "#{photo_file} referenced in data for artwork #{artwork['id']} but does not exist"
+            end
           end
         end
       end
