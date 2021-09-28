@@ -1,9 +1,10 @@
 ---
 layout: base_v2
 bodyclass: artwork
-gallery: "{{ site.data.galleries[gallery_index].name }}"
-gallery_slug: "{{ site.data.galleries[gallery_index].slug }}"
-artwork: "{{ site.data.artworks[page.artwork_index].name }}"
+foo: bar
+gallery: "{{ site.data.galleries[page.gallery_index].name | flatify }}"
+gallery_slug: "{{ site.data.galleries[page.gallery_index].slug | flatify }}"
+artwork: "{{ site.data.artworks[page.artwork_index].artwork_name | flatify }}"
 title: "{{ layout.artwork | flatify }} | {{ layout.gallery | flatify }} | Ian Byers Ceramics"
 breadcrumb: |
   <header class="page-header">
