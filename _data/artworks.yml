@@ -1037,3 +1037,131 @@
     photo_date: "04-08-2020"
     photo_file: "chilli_creature_4_aug_2020.jpg"
     photo_credit: ""
+-
+  artwork_name: "Plan"
+  dimensions: ""
+  artwork_materials: ""
+  id: 68
+  artwork_photo: 0
+  photos:
+  -
+    id: 96
+    photo_name: "Plan"
+    photo_date: "03-09-2020"
+    photo_file: "plan_3_sept_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Hooks"
+  dimensions: ""
+  artwork_materials: ""
+  id: 69
+  artwork_photo: 0
+  photos:
+  -
+    id: 97
+    photo_name: "Hooks"
+    photo_date: "03-09-2020"
+    photo_file: "hooks_3_sept_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Recycle"
+  dimensions: ""
+  artwork_materials: ""
+  id: 70
+  artwork_photo: 0
+  photos:
+  -
+    id: 98
+    photo_name: "Recycle"
+    photo_date: "03-09-2020"
+    photo_file: "recycle_3_sept_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Recycle"
+  dimensions: ""
+  artwork_materials: ""
+  id: 71
+  artwork_photo: 0
+  photos:
+  -
+    id: 99
+    photo_name: "Recycle"
+    photo_date: "25-10-2020"
+    photo_file: "recycle_25_oct_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Recycle"
+  dimensions: ""
+  artwork_materials: ""
+  id: 72
+  artwork_photo: 0
+  photos:
+  -
+    id: 100
+    photo_name: "Recycle"
+    photo_date: "28-10-2020"
+    photo_file: "recycle_28_oct_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Flow"
+  dimensions: ""
+  artwork_materials: ""
+  id: 73
+  artwork_photo: 0
+  photos:
+  -
+    id: 101
+    photo_name: "Flow"
+    photo_date: "09-11-2020"
+    photo_file: "flow_9_nov_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Tangle"
+  dimensions: ""
+  artwork_materials: ""
+  id: 74
+  artwork_photo: 0
+  photos:
+  -
+    id: 102
+    photo_name: "Tangle - landscape"
+    photo_date: "10-11-2020"
+    photo_file: "tangle_10_nov_2020.jpg"
+    photo_credit: ""
+  -
+    id: 103
+    photo_name: "Tangle - portrait"
+    photo_date: "10-11-2020"
+    photo_file: "tangle_portrait_10_nov_2020.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Scrap"
+  dimensions: ""
+  artwork_materials: ""
+  id: 75
+  artwork_photo: 1
+  photos:
+  -
+    id: 104
+    photo_name: "Scrap - work in progress"
+    photo_date: "21-11-2020"
+    photo_file: "scrap_21_nov_2020.jpg"
+    photo_credit: ""
+  -
+    id: 105
+    photo_name: "Scrap - landscape"
+    photo_date: "29-11-2020"
+    photo_file: "scrap_landscape_29_nov_2020.jpg"
+    photo_credit: ""
+  -
+    id: 106
+    photo_name: "Scrap - detail"
+    photo_date: "29-11-2020"
+    photo_file: "scrap_detail_29_nov_2020.jpg"
+    photo_credit: ""
+  -
+    id: 107
+    photo_name: "Scrap - portrait"
+    photo_date: "29-11-2020"
+    photo_file: "scrap_portrait_29_nov_2020.jpg"
+    photo_credit: ""
