@@ -1,7 +1,6 @@
 /*! jQuery v1.9.1 | (c) 2005, 2012 jQuery Foundation, Inc. | jquery.org/license
 //@ sourceMappingURL=jquery.min.map
-*/
-(function(e, t) {
+*/ (function(e, t) {
   var n, r, i = typeof t, o = e.document, a = e.location, s = e.jQuery, u = e.$, l = {}, c = [], p = "1.9.1", f = c.concat, d = c.push, h = c.slice, g = c.indexOf, m = l.toString, y = l.hasOwnProperty, v = p.trim, b = function(e, t) {
     return new b.fn.init(e, t, r);
   }, x = /[+-]?(?:\d*\.|)\d+(?:[eE][+-]?\d+|)/.source, w = /\S+/g, T = /^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g, N = /^(?:(<[\w\W]+>)[^>]*|#([\w-]*))$/, C = /^<(\w+)\s*\/?>(?:<\/\1>|)$/, k = /^[\],:{}\s]*$/, E = /(?:^|:|,)(?:\s*\[)+/g, S = /\\(?:["\\\/bfnrt]|u[\da-fA-F]{4})/g, A = /"[^"\\\r\n]*"|true|false|null|-?(?:\d+\.|)\d+(?:[eE][+-]?\d+|)/g, j = /^-ms-/, D = /-([\da-z])/gi, L = function(e, t) {
@@ -126,7 +125,7 @@
         return !1;
       }
       var r;
-      for (r in e) ;
+      for (r in e);
       return r === t || y.call(e, r);
     },
     isEmptyObject: function(e) {
@@ -3032,7 +3031,9 @@
   });
 })(window);
 
-window.Modernizr = function(a, b, c) {
+/* Modernizr 2.6.2 (Custom Build) | MIT & BSD
+ * Build: http://modernizr.com/download/#-printshiv
+ */window.Modernizr = function(a, b, c) {
   function t(a) {
     i.cssText = a;
   }
