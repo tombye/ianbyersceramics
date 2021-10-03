@@ -1165,3 +1165,242 @@
     photo_date: "29-11-2020"
     photo_file: "scrap_portrait_29_nov_2020.jpg"
     photo_credit: ""
+-
+  artwork_name: "Relax"
+  dimensions: ""
+  artwork_materials: ""
+  id: 76
+  artwork_photo: 0
+  photos:
+  -
+    id: 108
+    photo_name: "Relax"
+    photo_date: "06-02-2021"
+    photo_file: "relax_6_feb_2021.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Stack"
+  dimensions: ""
+  artwork_materials: ""
+  id: 77
+  artwork_photo: 0
+  photos:
+  -
+    id: 109
+    photo_name: "Stack - top"
+    photo_date: "08-02-2021"
+    photo_file: "stack_top_8_feb_2021.jpg"
+    photo_credit: ""
+  -
+    id: 110
+    photo_name: "Stack - side"
+    photo_date: "08-02-2021"
+    photo_file: "stack_side_8_feb_2021.jpg"
+    photo_credit: ""
+  -
+    id: 111
+    photo_name: "Stack - side on white"
+    photo_date: "08-02-2021"
+    photo_file: "stack_side_on_white_8_feb_2021.jpg"
+    photo_credit: ""
+  -
+    id: 112
+    photo_name: "Stack - side on white"
+    photo_date: "08-02-2021"
+    photo_file: "stack_on_white_8_feb_2021.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Broken"
+  dimensions: ""
+  artwork_materials: ""
+  id: 78
+  artwork_photo: 0
+  photos:
+  -
+    id: 113
+    photo_name: "Broken"
+    photo_date: "10-02-2021"
+    photo_file: "broken_10_mar_2021.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Spring"
+  dimensions: ""
+  artwork_materials: ""
+  id: 79
+  artwork_photo: 0
+  photos:
+  -
+    id: 114
+    photo_name: "Spring - side"
+    photo_date: "10-04-2021"
+    photo_file: "spring_side_10_april_2021.jpg"
+    photo_credit: ""
+  -
+    id: 115
+    photo_name: "Spring"
+    photo_date: "10-04-2021"
+    photo_file: "spring_10_april_2021.jpg"
+    photo_credit: ""
+  -
+    id: 116
+    photo_name: "Spring - detail"
+    photo_date: "04-04-2021"
+    photo_file: "spring_detail_4_apr_2021.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Tangle kit"
+  dimensions: ""
+  artwork_materials: ""
+  id: 80
+  artwork_photo: 0
+  photos:
+  -
+    id: 115
+    photo_name: "Tangle kit"
+    photo_date: "10-04-2021"
+    photo_file: "tangle_kit_10_april_2021.jpg"
+    photo_credit: ""
+  -
+    id: 116
+    photo_name: "Tangle kit - side"
+    photo_date: "10-04-2021"
+    photo_file: "tangle_kit_side_2_10_apr_2021.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Spring kit"
+  dimensions: ""
+  artwork_materials: ""
+  id: 81
+  artwork_photo: 0
+  photos:
+  -
+    id: 117
+    photo_name: "Spring kit - 1"
+    photo_date: "10-04-2021"
+    photo_file: "sprint_kit_1_10_april_2021.jpg"
+    photo_credit: ""
+  -
+    id: 118
+    photo_name: "Spring kit - 2"
+    photo_date: "10-04-2021"
+    photo_file: "sprint_kit_2_10_apr_2021.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Chase mug"
+  dimensions: ""
+  artwork_materials: ""
+  id: 82
+  artwork_photo: 0
+  photos:
+  -
+    id: 119
+    photo_name: "Chase mug"
+    photo_date: "08-05-2021"
+    photo_file: "chase_mug_8_may_2021.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Sit mug"
+  dimensions: ""
+  artwork_materials: ""
+  id: 83
+  artwork_photo: 0
+  photos:
+  -
+    id: 120
+    photo_name: "Sit mug"
+    photo_date: "08-05-2021"
+    photo_file: "sit_mug_22_june_2021.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Espresso cup"
+  dimensions: ""
+  artwork_materials: ""
+  id: 84
+  artwork_photo: 0
+  photos:
+  -
+    id: 121
+    photo_name: "Espresso cup"
+    photo_date: "29-07-2021"
+    photo_file: "espresso_cup_29_july_2021.jpg"
+    photo_credit: ""
+  -
+    id: 122
+    photo_name: "Espresso cup"
+    photo_date: "29-06-2021"
+    photo_file: "espresso_cup_29_june_2021.jpg"
+    photo_credit: ""
+  -
+    id: 123
+    photo_name: "Espresso cup - in progress"
+    photo_date: "29-06-2021"
+    photo_file: "espresso_cup_in_progress_15_july_2021.jpg"
+    photo_credit: ""
+  -
+    id: 124
+    photo_name: "Espresso cup - in progress, detail"
+    photo_date: "14-09-2021"
+    photo_file: "espresso_cup_in_progress_14_sept_2021.jpg"
+    photo_credit: ""
+  -
+    id: 125
+    photo_name: "Espresso cup - detail"
+    photo_date: "14-09-2021"
+    photo_file: "espresso_cup_detail_4_14_sept_2021.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Cup glazed"
+  dimensions: ""
+  artwork_materials: ""
+  id: 85
+  artwork_photo: 0
+  photos:
+  -
+    id: 126
+    photo_name: "Cup glazed"
+    photo_date: "30-07-2021"
+    photo_file: "cup_glazed_30_july_2021.jpg"
+    photo_credit: ""
+  -
+    id: 127
+    photo_name: "Espresso cup"
+    photo_date: "29-06-2021"
+    photo_file: "espresso_cup_30_july_2021.jpg"
+    photo_credit: ""
+  -
+    id: 128
+    photo_name: "Espresso cup - detail"
+    photo_date: "14-09-2021"
+    photo_file: "espresso_cup_detail_1_14_sept_2021.jpg"
+    photo_credit: ""
+  -
+    id: 129
+    photo_name: "Espresso cup - detail"
+    photo_date: "14-09-2021"
+    photo_file: "espresso_cup_detail_2_14_sept_2021.jpg"
+    photo_credit: ""
+  -
+    id: 130
+    photo_name: "Espresso cup - detail"
+    photo_date: "14-09-2021"
+    photo_file: "espresso_cup_detail_5_14_sept_2021.jpg"
+    photo_credit: ""
+  -
+    id: 131
+    photo_name: "Espresso cup - detail"
+    photo_date: "14-09-2021"
+    photo_file: "espresso_cup_detail_6_14_sept_2021.jpg"
+    photo_credit: ""
+-
+  artwork_name: "Sinker"
+  dimensions: ""
+  artwork_materials: ""
+  id: 86
+  artwork_photo: 0
+  photos:
+  -
+    id: 132
+    photo_name: "Sinker"
+    photo_date: "02-03-2021"
+    photo_file: "sinker_2_march_2021.jpg"
+    photo_credit: ""

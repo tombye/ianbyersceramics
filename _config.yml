@@ -27,9 +27,11 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+  - Rakefile
   - docs
   - scripts
   - node_modules
+  - package.json
   - build.sh
   - watch.sh
   - deploy.sh
