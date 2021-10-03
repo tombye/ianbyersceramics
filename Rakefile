@@ -1,7 +1,7 @@
 require 'yaml'
 require 'liquid'
 
-task :default do
+task :build_artworks do
   artworks = YAML.load(File.read('./_data/artworks.yml'))
   galleries = YAML.load(File.read('./_data/galleries.yml'))
   photos_source = "/Users/tombyers/Downloads/dad_covid_resources"
@@ -86,3 +86,5 @@ task :default do
     end
   end
 end
+
+task :default => :build_artworks

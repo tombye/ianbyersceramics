@@ -30,25 +30,21 @@ while getopts "hsw" OPTION; do
 done
 shift $(($OPTIND-1))
 
-# Manual step: bump VERSION.txt
-#
-VERSION=$( cat VERSION.txt )
-echo "Version is $VERSION"
-
-WEBAPPS_DIR=/home/tombaromba/webapps
-
 echo "Building static site."
 # 2. build project
+npm install
+npm run build
+bundle exec rake
 bundle exec jekyll build
 
 if [ $JUST_WEBAPP -eq 0 ]; then
   echo "Copy static asset files to remote host"
   # 3. rsync static assets to public folder on remote host
-  rsync -avz  _site/public/ "webfactional:$WEBAPPS_DIR/ianbyersceramics_public"
+  rsync -avzP  _site/public/ tombyers.co.uk:ianbyersceramics.co.uk/public
 fi
 
 if [ $JUST_STATIC_ASSETS -eq 0 ]; then
   echo "Copy webapp files to remote host"
   # 3. rsync latest version of webapp to relevant folder on remote host
-  rsync -avz --exclude _site/public _site/ "webfactional:$WEBAPPS_DIR/ianbyersceramics"
+  rsync -avzP --exclude _site/public _site/ tombyers.co.uk:ianbyersceramics.co.uk
 fi
