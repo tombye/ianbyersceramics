@@ -941,7 +941,7 @@
     photo_file: "figure_side_3_june_2020.jpg"
     photo_credit: ""
 -
-  artwork_name: "Dangers"
+  artwork_name: "Dancers"
   dimensions: ""
   artwork_materials: ""
   id: 61
@@ -949,7 +949,7 @@
   photos:
   -
     id: 88
-    photo_name: "Dangers"
+    photo_name: "Dancers"
     photo_date: "15-07-2020"
     photo_file: "dangers_15_july_2020.jpg"
     photo_credit: ""
@@ -967,7 +967,7 @@
     photo_file: "untitled_15_july_2020.jpg"
     photo_credit: ""
 -
-  artwork_name: "Fallen toner"
+  artwork_name: "Fallen tower"
   dimensions: ""
   artwork_materials: ""
   id: 63
@@ -975,15 +975,15 @@
   photos:
   -
     id: 90
-    photo_name: "Fallen toner - landscape"
+    photo_name: "Fallen tower - landscape"
     photo_date: "22-07-2020"
-    photo_file: "fallen_toner_landscape_22_july_2020.jpg"
+    photo_file: "fallen_tower_landscape_22_july_2020.jpg"
     photo_credit: ""
   -
     id: 91
-    photo_name: "Fallen toner - portrait"
+    photo_name: "Fallen tower - portrait"
     photo_date: "22-07-2020"
-    photo_file: "fallen_toner_portrait_22_july_2020.jpg"
+    photo_file: "fallen_tower_portrait_22_july_2020.jpg"
     photo_credit: ""
 -
   artwork_name: "Lost and found"
