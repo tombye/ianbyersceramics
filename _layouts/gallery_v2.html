@@ -1,0 +1,31 @@
+---
+layout: base_v2
+bodyclass: gallery
+gallery: "{{ site.data.galleries[page.index].name }}"
+title: "{{ layout.gallery | flatify }} | Galleries | Ian Byers Ceramics"
+breadcrumb: |
+  <header class="page-header">
+      <h1>{{ layout.gallery | flatify }}</h1>
+      <ul class="breadcrumb" role="breadcrumbs">
+        <li><a href="/">Home</a></li>
+        <li><a href="/galleries/">Galleries</a></li>
+        <li>{{ layout.gallery | flatify }}</li>
+      </ul>
+  </header>
+---
+<p class="intro">Artworks in this gallery</p>
+<ul>
+{% assign gallery = site.data.galleries[page.index] %}
+{% assign artwork_indices = gallery.artworks %}
+{% for index in artwork_indices %}
+  {% assign artwork = site.data.artworks[index] %}
+  {% assign photo = artwork.photos[artwork.artwork_photo] %}
+    <li>
+      <a href="/galleries/{{ gallery.slug }}/artworks/{{ artwork.id }}">
+      <img src="/public/images/gallery/photos/200x200/{{ photo.photo_file }}" alt="{{ photo.photo_name }}" width="200" />
+        {{ artwork.artwork_name }}
+      </a>
+    </li>
+{% endfor %}
+</ul>
+

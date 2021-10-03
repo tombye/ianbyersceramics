@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>{{ layout.title | flatify }}</title>
+  <meta name="description" content="Ian Byers Ceramics - Artworks from Ian Byers' studio, news of exhibitions and information about the artist and his practice" />
+  <link rel="shortcut icon" type="image/x-icon" href="/public/images/favicon.ico">
+  <link rel="stylesheet" href="/public/stylesheets/dist/application.css" media="screen" />
+  <link rel="stylesheet" href="/public/stylesheets/dist/application-print.css" media="print"  />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta property="og:image" content="https://www.ianbyersceramics.co.uk/public/images/gallery/photos/600x600/Pieces_with_netting_1_of_15.jpg" />
+  {% include analytics.html %}
+</head>
+<body class="no-js {{ layout.bodyclass }}">
+  <script type="text/javascript">(function(){var a=document.body.className;document.body.className=a.replace('no-js','');}());</script>
+  <div id="page">
+    <div id="masthead">
+      <a class="logo" href="/">Ian Byers Ceramics</a>
+    </div>
+    {{ layout.breadcrumb | flatify }}
+    <section id="content">
+    {{ content }}
+    </section>
+    <footer id="footer">
+      {% include footer.html %}
+    </footer>
+  </div>
+  <script src="/public/javascripts/dist/application.js"></script>
+</body>
+</html>

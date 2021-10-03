@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title | flatify }}</title>
   <meta name="description" content="Ian Byers Ceramics - Artworks from Ian Byers' studio, news of exhibitions and information about the artist and his practice" />
   <link rel="shortcut icon" type="image/x-icon" href="/public/images/favicon.ico">
   <link rel="stylesheet" href="/public/stylesheets/dist/application.css" media="screen" />
@@ -17,7 +17,7 @@
     <div id="masthead">
       <a class="logo" href="/">Ian Byers Ceramics</a>
     </div>
-    {{ page.breadcrumb }}
+    {{ page.breadcrumb | flatify }}
     <section id="content">
     {{ content }}
     </section>
