@@ -219,9 +219,9 @@ img.inset-left {
 
 @font-face {
     font-family: 'AllerLightRegular';
-    src: url('/public/fonts/aller/aller_lt-webfont.eot?') format('eot'),
-         url('/public/fonts/aller/aller_lt-webfont.woff') format('woff'),
-         url('/public/fonts/aller/aller_lt-webfont.ttf') format('truetype');
+    src: url('/public/fonts/Aller/aller_lt-webfont.eot?') format('eot'),
+         url('/public/fonts/Aller/aller_lt-webfont.woff') format('woff'),
+         url('/public/fonts/Aller/aller_lt-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -595,20 +595,6 @@ section#content .intro {
     margin-top: 0;
 }
 
-@media (max-width: 383px) {
-    section#content .intro h1,
-    section#content .intro p,
-    section#content .intro ul {
-        margin-left: 16px;
-        margin-right: 16px;
-    }
-
-    section#content .intro ul.controls {
-        margin-right: 32px;
-        margin-left: 32px;
-    }
-}
-
 .info {
     text-align: left;
     clear: both;
@@ -709,15 +695,12 @@ section#content .intro {
         margin-left: 0;
         padding-top: 32px;
     }
-}
 
-@supports (display: grid) {
-  @media (max-width: 334px) {
-    .additionalImages {
-      width: 212px;
-      margin: 0 auto;
+    @supports (display: grid) {
+      .additionalImages {
+        justify-content: center;
+      }
     }
-  }
 }
 
 .additionalImages li {
