@@ -23,3 +23,4 @@ gem "jekyll", "4.2.0"
 
 gem "webrick", "~> 1.7"
 gem "rake", "~> 12.3.3"
+gem 'eventmachine', git: 'https://github.com/eventmachine/eventmachine', branch: 'master'
