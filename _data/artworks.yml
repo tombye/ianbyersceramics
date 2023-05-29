@@ -1,1407 +1,1187 @@
 ---
--
-  id: 1
+- id: 1
   artwork_photo: 4
-  artwork_name: "Liminal 1"
-  dimensions: "26cm x 20cm x 17cm"
-  artwork_materials: ""
+  artwork_name: Liminal 1
+  dimensions: 26cm x 20cm x 17cm
+  artwork_materials: ''
   photos:
-  -
-    id: 1
-    photo_name: "Liminal 1, view 1"
-    photo_date: ""
-    photo_file: "Liminal.26cmx20cmx17cm_1.JPG"
-    photo_credit: ""
-  -
-    id: 2
-    photo_name: "Liminal 1, view 2"
-    photo_date: ""
-    photo_file: "view_1_1.JPG"
-    photo_credit: ""
-  -
-    id: 3
-    photo_name: "Liminal 1, view 3"
-    photo_date: ""
-    photo_file: "view_2_1.JPG"
-    photo_credit: ""
-  -
-    id: 4
-    photo_name: "Liminal 1, view 4"
-    photo_date: ""
-    photo_file: "view_3_2.JPG"
-    photo_credit: ""
-  -
-    id: 5
-    photo_name: "Liminal 1, view 5"
-    photo_date: ""
-    photo_file: "view_4_1.JPG"
-    photo_credit: ""
-  -
-    id: 6
-    photo_name: "Liminal 1, view 6"
-    photo_date: ""
-    photo_file: "view_5_1.JPG"
-    photo_credit: ""
--
-  artwork_name: "Liminal 2"
-  dimensions: "20cm x 17cm x 10cm"
-  artwork_materials: ""
+  - id: 1
+    photo_name: Liminal 1, view 1
+    photo_date: ''
+    photo_file: Liminal.26cmx20cmx17cm_1.JPG
+    photo_credit: ''
+  - id: 2
+    photo_name: Liminal 1, view 2
+    photo_date: ''
+    photo_file: view_1_1.JPG
+    photo_credit: ''
+  - id: 3
+    photo_name: Liminal 1, view 3
+    photo_date: ''
+    photo_file: view_2_1.JPG
+    photo_credit: ''
+  - id: 4
+    photo_name: Liminal 1, view 4
+    photo_date: ''
+    photo_file: view_3_2.JPG
+    photo_credit: ''
+  - id: 5
+    photo_name: Liminal 1, view 5
+    photo_date: ''
+    photo_file: view_4_1.JPG
+    photo_credit: ''
+  - id: 6
+    photo_name: Liminal 1, view 6
+    photo_date: ''
+    photo_file: view_5_1.JPG
+    photo_credit: ''
+- artwork_name: Liminal 2
+  dimensions: 20cm x 17cm x 10cm
+  artwork_materials: ''
   id: 2
   artwork_photo: 0
   photos:
-  -
-    id: 7
-    photo_name: "Liminal 2, view 1"
-    photo_date: ""
-    photo_file: "Liminal_series.20cmx17cmx10cm_1.jpg"
-    photo_credit: ""
--
-  artwork_name: "Liminal 3"
-  dimensions: "63cm x 20cm x 7cm"
-  artwork_materials: ""
+  - id: 7
+    photo_name: Liminal 2, view 1
+    photo_date: ''
+    photo_file: Liminal_series.20cmx17cmx10cm_1.jpg
+    photo_credit: ''
+- artwork_name: Liminal 3
+  dimensions: 63cm x 20cm x 7cm
+  artwork_materials: ''
   id: 3
   artwork_photo: 0
   photos:
-  -
-    id: 8
-    photo_name: "Liminal 3, view 1"
-    photo_date: ""
-    photo_file: "Liminal_series_34cmx30cmx20cm.jpg"
-    photo_credit: ""
-  -
-    id: 9
-    photo_name: "Liminal 3, view 2"
-    photo_date: ""
-    photo_file: "view_2_2.jpg"
-    photo_credit: ""
-  -
-    id: 10
-    photo_name: "Liminal 3, detail"
-    photo_date: ""
-    photo_file: "detail.jpg"
-    photo_credit: ""
--
-  artwork_name: "Liminal 4"
-  dimensions: "63cm x 20cm x 7cm"
-  artwork_materials: ""
+  - id: 8
+    photo_name: Liminal 3, view 1
+    photo_date: ''
+    photo_file: Liminal_series_34cmx30cmx20cm.jpg
+    photo_credit: ''
+  - id: 9
+    photo_name: Liminal 3, view 2
+    photo_date: ''
+    photo_file: view_2_2.jpg
+    photo_credit: ''
+  - id: 10
+    photo_name: Liminal 3, detail
+    photo_date: ''
+    photo_file: detail.jpg
+    photo_credit: ''
+- artwork_name: Liminal 4
+  dimensions: 63cm x 20cm x 7cm
+  artwork_materials: ''
   id: 4
   artwork_photo: 0
   photos:
-  -
-    id: 11
-    photo_name: "Liminal 4, view 1"
-    photo_date: ""
-    photo_file: "Liminal._63cmx20cmx7cm.jpg"
-    photo_credit: ""
-  -
-    id: 12
-    photo_name: "Liminal 4, view 2"
-    photo_date: ""
-    photo_file: "view2.jpg"
-    photo_credit: ""
--
-  artwork_name: "Liminal 5"
-  dimensions: "28cm x 25cm x 20cm"
-  artwork_materials: ""
+  - id: 11
+    photo_name: Liminal 4, view 1
+    photo_date: ''
+    photo_file: Liminal._63cmx20cmx7cm.jpg
+    photo_credit: ''
+  - id: 12
+    photo_name: Liminal 4, view 2
+    photo_date: ''
+    photo_file: view2.jpg
+    photo_credit: ''
+- artwork_name: Liminal 5
+  dimensions: 28cm x 25cm x 20cm
+  artwork_materials: ''
   id: 5
   artwork_photo: 0
   photos:
-  -
-    id: 13
-    photo_name: "Liminal 5, view 1"
-    photo_date: ""
-    photo_file: "Liminal.28cmx25cmx20cm.jpg"
-    photo_credit: ""
-  -
-    id: 14
-    photo_name: "Liminal 5, view 2"
-    photo_date: ""
-    photo_file: "view2_1.jpg"
-    photo_credit: ""
--
-  artwork_name: "Liminal 6"
-  dimensions: "33cm x 20cm x 5cm"
-  artwork_materials: ""
+  - id: 13
+    photo_name: Liminal 5, view 1
+    photo_date: ''
+    photo_file: Liminal.28cmx25cmx20cm.jpg
+    photo_credit: ''
+  - id: 14
+    photo_name: Liminal 5, view 2
+    photo_date: ''
+    photo_file: view2_1.jpg
+    photo_credit: ''
+- artwork_name: Liminal 6
+  dimensions: 33cm x 20cm x 5cm
+  artwork_materials: ''
   id: 6
   artwork_photo: 0
   photos:
-  -
-    id: 15
-    photo_name: "Liminal 6, view 1"
-    photo_date: ""
-    photo_file: "Liminal._33cmx20cmx5cm.jpg"
-    photo_credit: ""
-  -
-    id: 16
-    photo_name: "Liminal 6, view 2"
-    photo_date: ""
-    photo_file: "view_2_3.jpg"
-    photo_credit: ""
--
-  artwork_name: "-gen 1"
-  dimensions: "152cm diameter"
-  artwork_materials: ""
+  - id: 15
+    photo_name: Liminal 6, view 1
+    photo_date: ''
+    photo_file: Liminal._33cmx20cmx5cm.jpg
+    photo_credit: ''
+  - id: 16
+    photo_name: Liminal 6, view 2
+    photo_date: ''
+    photo_file: view_2_3.jpg
+    photo_credit: ''
+- artwork_name: "-gen 1"
+  dimensions: 152cm diameter
+  artwork_materials: ''
   id: 7
   artwork_photo: 0
   photos:
-  -
-    id: 17
+  - id: 17
     photo_name: "-gen 1, view 1"
-    photo_date: ""
+    photo_date: ''
     photo_file: "-gen._1.52cm_diam_1.jpg"
-    photo_credit: ""
--
-  artwork_name: "-gen 2"
-  dimensions: "252cm diameter"
-  artwork_materials: ""
+    photo_credit: ''
+- artwork_name: "-gen 2"
+  dimensions: 252cm diameter
+  artwork_materials: ''
   id: 8
   artwork_photo: 0
   photos:
-  -
-    id: 18
+  - id: 18
     photo_name: "-gen 2, view 1"
-    photo_date: ""
+    photo_date: ''
     photo_file: "-gen._2._52cm_diam.JPG"
-    photo_credit: ""
--
-  artwork_name: "-gen 3"
-  dimensions: "12cm maximum dimension"
-  artwork_materials: ""
+    photo_credit: ''
+- artwork_name: "-gen 3"
+  dimensions: 12cm maximum dimension
+  artwork_materials: ''
   id: 9
   artwork_photo: 0
   photos:
-  -
-    id: 19
+  - id: 19
     photo_name: "-gen 3, view 1"
-    photo_date: ""
+    photo_date: ''
     photo_file: "-gen._3._12cm_max_dim.JPG"
-    photo_credit: ""
-  -
-    id: 20
+    photo_credit: ''
+  - id: 20
     photo_name: "-gen 3, view 2"
-    photo_date: ""
+    photo_date: ''
     photo_file: "-gen._3._12cm_max_dim_2.JPG"
-    photo_credit: ""
--
-  artwork_name: "-gen 4"
-  dimensions: "15cm maximum dimension"
-  artwork_materials: ""
+    photo_credit: ''
+- artwork_name: "-gen 4"
+  dimensions: 15cm maximum dimension
+  artwork_materials: ''
   id: 10
   artwork_photo: 0
   photos:
-  -
-    id: 21
+  - id: 21
     photo_name: "-gen 4, view 1"
-    photo_date: ""
+    photo_date: ''
     photo_file: "-gen._4._max_dim_15_cm.JPG"
-    photo_credit: ""
-  -
-    id: 22
+    photo_credit: ''
+  - id: 22
     photo_name: "-gen 4, view 2"
-    photo_date: ""
+    photo_date: ''
     photo_file: "-gen._4._max_dim_15_cm_2.JPG"
-    photo_credit: ""
--
-  artwork_name: "-gen 5"
-  dimensions: "17cm maximum dimension"
-  artwork_materials: ""
+    photo_credit: ''
+- artwork_name: "-gen 5"
+  dimensions: 17cm maximum dimension
+  artwork_materials: ''
   id: 11
   artwork_photo: 0
   photos:
-  -
-    id: 23
+  - id: 23
     photo_name: "-gen 5, view 1"
-    photo_date: ""
+    photo_date: ''
     photo_file: "-gen._5._17cm_max_dim.JPG"
-    photo_credit: ""
--
-  artwork_name: "-gen 6"
-  dimensions: "17cm maximum dimension"
-  artwork_materials: ""
+    photo_credit: ''
+- artwork_name: "-gen 6"
+  dimensions: 17cm maximum dimension
+  artwork_materials: ''
   id: 12
   artwork_photo: 0
   photos:
-  -
-    id: 24
+  - id: 24
     photo_name: "-gen 6, view 1"
-    photo_date: ""
+    photo_date: ''
     photo_file: "-gen._6._17cm_max_dim.JPG"
-    photo_credit: ""
-  -
-    id: 25
+    photo_credit: ''
+  - id: 25
     photo_name: "-gen 6, view 2"
-    photo_date: ""
+    photo_date: ''
     photo_file: "-gen._6._view_2.JPG"
-    photo_credit: ""
--
-  artwork_name: "Untitled 1"
-  dimensions: ""
-  artwork_materials: ""
+    photo_credit: ''
+- artwork_name: Untitled 1
+  dimensions: ''
+  artwork_materials: ''
   id: 13
   artwork_photo: 0
   photos:
-  -
-    id: 26
-    photo_name: "Untitled 1"
-    photo_date: ""
-    photo_file: "web_-_03.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 2"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 26
+    photo_name: Untitled 1
+    photo_date: ''
+    photo_file: web_-_03.jpg
+    photo_credit: ''
+- artwork_name: Untitled 2
+  dimensions: ''
+  artwork_materials: ''
   id: 14
   artwork_photo: 0
   photos:
-  -
-    id: 27
-    photo_name: "Untitled 2"
-    photo_date: ""
-    photo_file: "Web_arc-_1386.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 3"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 27
+    photo_name: Untitled 2
+    photo_date: ''
+    photo_file: Web_arc-_1386.jpg
+    photo_credit: ''
+- artwork_name: Untitled 3
+  dimensions: ''
+  artwork_materials: ''
   id: 15
   artwork_photo: 0
   photos:
-  -
-    id: 28
-    photo_name: "Untitled 3"
-    photo_date: ""
-    photo_file: "Web_arc-_1378.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 4"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 28
+    photo_name: Untitled 3
+    photo_date: ''
+    photo_file: Web_arc-_1378.jpg
+    photo_credit: ''
+- artwork_name: Untitled 4
+  dimensions: ''
+  artwork_materials: ''
   id: 16
   artwork_photo: 0
   photos:
-  -
-    id: 29
-    photo_name: "Untitled 4"
-    photo_date: ""
-    photo_file: "Web_arc_-_1381.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 5"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 29
+    photo_name: Untitled 4
+    photo_date: ''
+    photo_file: Web_arc_-_1381.jpg
+    photo_credit: ''
+- artwork_name: Untitled 5
+  dimensions: ''
+  artwork_materials: ''
   id: 17
   artwork_photo: 0
   photos:
-  -
-    id: 30
-    photo_name: "Untitled 5"
-    photo_date: ""
-    photo_file: "Web.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 6"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 30
+    photo_name: Untitled 5
+    photo_date: ''
+    photo_file: Web.jpg
+    photo_credit: ''
+- artwork_name: Untitled 6
+  dimensions: ''
+  artwork_materials: ''
   id: 18
   artwork_photo: 0
   photos:
-  -
-    id: 31
-    photo_name: "Untitled 6"
-    photo_date: ""
-    photo_file: "Web_arc-_1362.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 7"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 31
+    photo_name: Untitled 6
+    photo_date: ''
+    photo_file: Web_arc-_1362.jpg
+    photo_credit: ''
+- artwork_name: Untitled 7
+  dimensions: ''
+  artwork_materials: ''
   id: 19
   artwork_photo: 0
   photos:
-  -
-    id: 32
-    photo_name: "Untitled 7"
-    photo_date: ""
-    photo_file: "Web_-_1350.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 8"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 32
+    photo_name: Untitled 7
+    photo_date: ''
+    photo_file: Web_-_1350.jpg
+    photo_credit: ''
+- artwork_name: Untitled 8
+  dimensions: ''
+  artwork_materials: ''
   id: 20
   artwork_photo: 0
   photos:
-  -
-    id: 33
-    photo_name: "Untitled 8"
-    photo_date: ""
-    photo_file: "Web-_1348.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 9"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 33
+    photo_name: Untitled 8
+    photo_date: ''
+    photo_file: Web-_1348.jpg
+    photo_credit: ''
+- artwork_name: Untitled 9
+  dimensions: ''
+  artwork_materials: ''
   id: 21
   artwork_photo: 0
   photos:
-  -
-    id: 34
-    photo_name: "Untitled 9"
-    photo_date: ""
-    photo_file: "Web_arc-_1358.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 10"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 34
+    photo_name: Untitled 9
+    photo_date: ''
+    photo_file: Web_arc-_1358.jpg
+    photo_credit: ''
+- artwork_name: Untitled 10
+  dimensions: ''
+  artwork_materials: ''
   id: 22
   artwork_photo: 0
   photos:
-  -
-    id: 35
-    photo_name: "Untitled 10"
-    photo_date: ""
-    photo_file: "Web_arc-_1352.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 11"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 35
+    photo_name: Untitled 10
+    photo_date: ''
+    photo_file: Web_arc-_1352.jpg
+    photo_credit: ''
+- artwork_name: Untitled 11
+  dimensions: ''
+  artwork_materials: ''
   id: 23
   artwork_photo: 0
   photos:
-  -
-    id: 36
-    photo_name: "Untitled 11"
-    photo_date: ""
-    photo_file: "Web_arc_-_3718.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 12"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 36
+    photo_name: Untitled 11
+    photo_date: ''
+    photo_file: Web_arc_-_3718.jpg
+    photo_credit: ''
+- artwork_name: Untitled 12
+  dimensions: ''
+  artwork_materials: ''
   id: 24
   artwork_photo: 0
   photos:
-  -
-    id: 37
-    photo_name: "Untitled 12"
-    photo_date: ""
-    photo_file: "Web_arc-_1356.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 13"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 37
+    photo_name: Untitled 12
+    photo_date: ''
+    photo_file: Web_arc-_1356.jpg
+    photo_credit: ''
+- artwork_name: Untitled 13
+  dimensions: ''
+  artwork_materials: ''
   id: 25
   artwork_photo: 0
   photos:
-  -
-    id: 38
-    photo_name: "Untitled 13"
-    photo_date: ""
-    photo_file: "Web_arc_-_1364.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 14"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 38
+    photo_name: Untitled 13
+    photo_date: ''
+    photo_file: Web_arc_-_1364.jpg
+    photo_credit: ''
+- artwork_name: Untitled 14
+  dimensions: ''
+  artwork_materials: ''
   id: 26
   artwork_photo: 0
   photos:
-  -
-    id: 39
-    photo_name: "Untitled 14"
-    photo_date: ""
-    photo_file: "Web_arc_-_1372.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled 15"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 39
+    photo_name: Untitled 14
+    photo_date: ''
+    photo_file: Web_arc_-_1372.jpg
+    photo_credit: ''
+- artwork_name: Untitled 15
+  dimensions: ''
+  artwork_materials: ''
   id: 27
   artwork_photo: 0
   photos:
-  -
-    id: 40
-    photo_name: "Untitled 15"
-    photo_date: ""
-    photo_file: "Web-_3682.jpg"
-    photo_credit: ""
--
-  artwork_name: "Yingge residency"
-  dimensions: "N/A"
-  artwork_materials: "N/A"
+  - id: 40
+    photo_name: Untitled 15
+    photo_date: ''
+    photo_file: Web-_3682.jpg
+    photo_credit: ''
+- artwork_name: Yingge residency
+  dimensions: N/A
+  artwork_materials: N/A
   id: 28
   artwork_photo: 0
   photos:
-  -
-    id: 41
-    photo_name: "Works in progress 1"
-    photo_date: "2013-09-00"
-    photo_file: "IMG_0112.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 42
-    photo_name: "Works in progress 2"
-    photo_date: "2013-09-00 "
-    photo_file: "IMG_0116.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 43
-    photo_name: "Works in progress 3"
-    photo_date: "2013-09-00"
-    photo_file: "IMG_0118.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 44
-    photo_name: "Works in progress 4"
-    photo_date: "2013-09-00"
-    photo_file: "IMG_0343.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 45
-    photo_name: "Works in progress 5"
-    photo_date: "2013-09-00"
-    photo_file: "IMG_9562.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 46
-    photo_name: "Works in progress 6"
-    photo_date: "2013-09-00"
-    photo_file: "IMG_9573.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 47
-    photo_name: "Works in progress 7"
-    photo_date: "2013-09-00"
-    photo_file: "IMG_9596.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 48
-    photo_name: "Works in progress 8"
-    photo_date: "2013-09-00"
-    photo_file: "IMG_9608.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 49
-    photo_name: "Works in progress 9"
-    photo_date: "2013-09-00"
-    photo_file: "IMG_9616.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 50
-    photo_name: "Works in progress 10"
-    photo_date: "2013-09-00"
-    photo_file: "IMG_9621.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 51
-    photo_name: "Works in progress 11"
-    photo_date: "2013-09-00"
-    photo_file: "P1030027.jpg"
-    photo_credit: "Ian Byers"
-  -
-    id: 52
-    photo_name: "Ian in the Yingge studio"
-    photo_date: "2013-09-00"
-    photo_file: "P1030037.jpg"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Odyssey 1"
-  dimensions: "Maximum dimension: 47cm"
-  artwork_materials: ""
+  - id: 41
+    photo_name: Works in progress 1
+    photo_date: 2013-09-00
+    photo_file: IMG_0112.jpg
+    photo_credit: Ian Byers
+  - id: 42
+    photo_name: Works in progress 2
+    photo_date: '2013-09-00 '
+    photo_file: IMG_0116.jpg
+    photo_credit: Ian Byers
+  - id: 43
+    photo_name: Works in progress 3
+    photo_date: 2013-09-00
+    photo_file: IMG_0118.jpg
+    photo_credit: Ian Byers
+  - id: 44
+    photo_name: Works in progress 4
+    photo_date: 2013-09-00
+    photo_file: IMG_0343.jpg
+    photo_credit: Ian Byers
+  - id: 45
+    photo_name: Works in progress 5
+    photo_date: 2013-09-00
+    photo_file: IMG_9562.jpg
+    photo_credit: Ian Byers
+  - id: 46
+    photo_name: Works in progress 6
+    photo_date: 2013-09-00
+    photo_file: IMG_9573.jpg
+    photo_credit: Ian Byers
+  - id: 47
+    photo_name: Works in progress 7
+    photo_date: 2013-09-00
+    photo_file: IMG_9596.jpg
+    photo_credit: Ian Byers
+  - id: 48
+    photo_name: Works in progress 8
+    photo_date: 2013-09-00
+    photo_file: IMG_9608.jpg
+    photo_credit: Ian Byers
+  - id: 49
+    photo_name: Works in progress 9
+    photo_date: 2013-09-00
+    photo_file: IMG_9616.jpg
+    photo_credit: Ian Byers
+  - id: 50
+    photo_name: Works in progress 10
+    photo_date: 2013-09-00
+    photo_file: IMG_9621.jpg
+    photo_credit: Ian Byers
+  - id: 51
+    photo_name: Works in progress 11
+    photo_date: 2013-09-00
+    photo_file: P1030027.jpg
+    photo_credit: Ian Byers
+  - id: 52
+    photo_name: Ian in the Yingge studio
+    photo_date: 2013-09-00
+    photo_file: P1030037.jpg
+    photo_credit: Ian Byers
+- artwork_name: Odyssey 1
+  dimensions: 'Maximum dimension: 47cm'
+  artwork_materials: ''
   id: 29
   artwork_photo: 0
   photos:
-  -
-    id: 53
-    photo_name: "Odyssey 1"
-    photo_date: "2017-01-00"
-    photo_file: "image1.JPG"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Odyssey 2"
-  dimensions: "Maximum dimension: 22cm"
-  artwork_materials: ""
+  - id: 53
+    photo_name: Odyssey 1
+    photo_date: 2017-01-00
+    photo_file: image1.JPG
+    photo_credit: Ian Byers
+- artwork_name: Odyssey 2
+  dimensions: 'Maximum dimension: 22cm'
+  artwork_materials: ''
   id: 30
   artwork_photo: 0
   photos:
-  -
-    id: 54
-    photo_name: "Odyssey 2"
-    photo_date: "2017-01-00"
-    photo_file: "image2.JPG"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Odyssey 3"
-  dimensions: "Maximum dimension: 40cm"
-  artwork_materials: ""
+  - id: 54
+    photo_name: Odyssey 2
+    photo_date: 2017-01-00
+    photo_file: image2.JPG
+    photo_credit: Ian Byers
+- artwork_name: Odyssey 3
+  dimensions: 'Maximum dimension: 40cm'
+  artwork_materials: ''
   id: 31
   artwork_photo: 0
   photos:
-  -
-    id: 55
-    photo_name: "Odyssey 3"
-    photo_date: "2017-01-00"
-    photo_file: "image3.JPG"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Odyssey 4"
-  dimensions: "Maximum dimension: 49cm"
-  artwork_materials: ""
+  - id: 55
+    photo_name: Odyssey 3
+    photo_date: 2017-01-00
+    photo_file: image3.JPG
+    photo_credit: Ian Byers
+- artwork_name: Odyssey 4
+  dimensions: 'Maximum dimension: 49cm'
+  artwork_materials: ''
   id: 32
   artwork_photo: 0
   photos:
-  -
-    id: 56
-    photo_name: "Odyssey 4"
-    photo_date: "2017-01-00"
-    photo_file: "Pieces_with_netting_1_of_15.jpg"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Odyssey 5"
-  dimensions: "Maximum dimension: 22cm"
-  artwork_materials: ""
+  - id: 56
+    photo_name: Odyssey 4
+    photo_date: 2017-01-00
+    photo_file: Pieces_with_netting_1_of_15.jpg
+    photo_credit: Ian Byers
+- artwork_name: Odyssey 5
+  dimensions: 'Maximum dimension: 22cm'
+  artwork_materials: ''
   id: 33
   artwork_photo: 0
   photos:
-  -
-    id: 57
-    photo_name: "Odyssey 5"
-    photo_date: "2017-01-00"
-    photo_file: "Pieces_with_netting_2_of_15.jpg"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Odyssey 6"
-  dimensions: "Maximum dimension: 16cm"
-  artwork_materials: ""
+  - id: 57
+    photo_name: Odyssey 5
+    photo_date: 2017-01-00
+    photo_file: Pieces_with_netting_2_of_15.jpg
+    photo_credit: Ian Byers
+- artwork_name: Odyssey 6
+  dimensions: 'Maximum dimension: 16cm'
+  artwork_materials: ''
   id: 34
   artwork_photo: 0
   photos:
-  -
-    id: 58
-    photo_name: "Odyssey 6"
-    photo_date: "2017-01-00"
-    photo_file: "Pieces_with_netting_6_of_15.jpg"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Odyssey 7"
-  dimensions: "Maximum dimension: 27cm"
-  artwork_materials: ""
+  - id: 58
+    photo_name: Odyssey 6
+    photo_date: 2017-01-00
+    photo_file: Pieces_with_netting_6_of_15.jpg
+    photo_credit: Ian Byers
+- artwork_name: Odyssey 7
+  dimensions: 'Maximum dimension: 27cm'
+  artwork_materials: ''
   id: 35
   artwork_photo: 0
   photos:
-  -
-    id: 59
-    photo_name: "Odyssey 7"
-    photo_date: "2017-01-00"
-    photo_file: "Pieces_with_netting_8_of_15.jpg"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Odyssey 8"
-  dimensions: "Maximum dimension: 15cm"
-  artwork_materials: ""
+  - id: 59
+    photo_name: Odyssey 7
+    photo_date: 2017-01-00
+    photo_file: Pieces_with_netting_8_of_15.jpg
+    photo_credit: Ian Byers
+- artwork_name: Odyssey 8
+  dimensions: 'Maximum dimension: 15cm'
+  artwork_materials: ''
   id: 36
   artwork_photo: 0
   photos:
-  -
-    id: 60
-    photo_name: "Odyssey 8"
-    photo_date: "2017-01-00"
-    photo_file: "Pieces_with_netting_10_of_15.jpg"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Odyssey 9"
-  dimensions: "Maximum dimension: 31cm"
-  artwork_materials: ""
+  - id: 60
+    photo_name: Odyssey 8
+    photo_date: 2017-01-00
+    photo_file: Pieces_with_netting_10_of_15.jpg
+    photo_credit: Ian Byers
+- artwork_name: Odyssey 9
+  dimensions: 'Maximum dimension: 31cm'
+  artwork_materials: ''
   id: 37
   artwork_photo: 0
   photos:
-  -
-    id: 61
-    photo_name: "Odyssey 9"
-    photo_date: "2017-01-00"
-    photo_file: "Pieces_with_netting_11_of_15.jpg"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Odyssey 10"
-  dimensions: "Maximum dimension: 26cm"
-  artwork_materials: ""
+  - id: 61
+    photo_name: Odyssey 9
+    photo_date: 2017-01-00
+    photo_file: Pieces_with_netting_11_of_15.jpg
+    photo_credit: Ian Byers
+- artwork_name: Odyssey 10
+  dimensions: 'Maximum dimension: 26cm'
+  artwork_materials: ''
   id: 38
   artwork_photo: 0
   photos:
-  -
-    id: 62
-    photo_name: "Odyssey 10"
-    photo_date: "2017-01-00"
-    photo_file: "Pieces_with_netting_15_of_15.jpg"
-    photo_credit: "Ian Byers"
--
-  artwork_name: "Vibration 1"
-  dimensions: "10cm x 13cm"
-  artwork_materials: "Indian ink drawing"
+  - id: 62
+    photo_name: Odyssey 10
+    photo_date: 2017-01-00
+    photo_file: Pieces_with_netting_15_of_15.jpg
+    photo_credit: Ian Byers
+- artwork_name: Vibration 1
+  dimensions: 10cm x 13cm
+  artwork_materials: Indian ink drawing
   id: 39
   artwork_photo: 0
   photos:
-  -
-    id: 63
-    photo_name: "Vibration 1"
-    photo_date: ""
-    photo_file: "order_and_disorder_1.jpg"
-    photo_credit: ""
--
-  artwork_name: "Vibration 2"
-  dimensions: "10cm x 13cm"
-  artwork_materials: ""
+  - id: 63
+    photo_name: Vibration 1
+    photo_date: ''
+    photo_file: order_and_disorder_1.jpg
+    photo_credit: ''
+- artwork_name: Vibration 2
+  dimensions: 10cm x 13cm
+  artwork_materials: ''
   id: 40
   artwork_photo: 0
   photos:
-  -
-    id: 64
-    photo_name: "Vibration 2"
-    photo_date: ""
-    photo_file: "order_and_disorder_2.jpg"
-    photo_credit: ""
--
-  artwork_name: "Dance 1"
-  dimensions: "10cm x 13cm"
-  artwork_materials: ""
+  - id: 64
+    photo_name: Vibration 2
+    photo_date: ''
+    photo_file: order_and_disorder_2.jpg
+    photo_credit: ''
+- artwork_name: Dance 1
+  dimensions: 10cm x 13cm
+  artwork_materials: ''
   id: 41
   artwork_photo: 0
   photos:
-  -
-    id: 65
-    photo_name: "Dance 1"
-    photo_date: ""
-    photo_file: "order_and_disorder_3.jpg"
-    photo_credit: ""
--
-  artwork_name: "Dance 2"
-  dimensions: "10cm x 13cm"
-  artwork_materials: ""
+  - id: 65
+    photo_name: Dance 1
+    photo_date: ''
+    photo_file: order_and_disorder_3.jpg
+    photo_credit: ''
+- artwork_name: Dance 2
+  dimensions: 10cm x 13cm
+  artwork_materials: ''
   id: 42
   artwork_photo: 0
   photos:
-  -
-    id: 66
-    photo_name: "Dance 2"
-    photo_date: ""
-    photo_file: "order_and_disorder_4.jpg"
-    photo_credit: ""
--
-  artwork_name: "Spires and Domes"
-  dimensions: "21cm x 30cm"
-  artwork_materials: "photo"
+  - id: 66
+    photo_name: Dance 2
+    photo_date: ''
+    photo_file: order_and_disorder_4.jpg
+    photo_credit: ''
+- artwork_name: Spires and Domes
+  dimensions: 21cm x 30cm
+  artwork_materials: photo
   id: 43
   artwork_photo: 0
   photos:
-  -
-    id: 67
-    photo_name: "Spires and Domes"
-    photo_date: ""
-    photo_file: "order_and_disorder_5.jpg"
-    photo_credit: ""
--
-  artwork_name: "Barrocco"
-  dimensions: "45cm x 31cm"
-  artwork_materials: "Indian ink drawing"
+  - id: 67
+    photo_name: Spires and Domes
+    photo_date: ''
+    photo_file: order_and_disorder_5.jpg
+    photo_credit: ''
+- artwork_name: Barrocco
+  dimensions: 45cm x 31cm
+  artwork_materials: Indian ink drawing
   id: 44
   artwork_photo: 0
   photos:
-  -
-    id: 68
-    photo_name: "Barrocco"
-    photo_date: ""
-    photo_file: "order_and_disorder_6.jpg"
-    photo_credit: ""
--
-  artwork_name: "Tower 1"
-  dimensions: "90cm x 20cm"
-  artwork_materials: "Print and ink drawing"
+  - id: 68
+    photo_name: Barrocco
+    photo_date: ''
+    photo_file: order_and_disorder_6.jpg
+    photo_credit: ''
+- artwork_name: Tower 1
+  dimensions: 90cm x 20cm
+  artwork_materials: Print and ink drawing
   id: 45
   artwork_photo: 0
   photos:
-  -
-    id: 69
-    photo_name: "Tower 1"
-    photo_date: ""
-    photo_file: "order_and_disorder_7.jpg"
-    photo_credit: ""
--
-  artwork_name: "Tower 2"
-  dimensions: "90cm x 20cm"
-  artwork_materials: "Print and ink drawing"
+  - id: 69
+    photo_name: Tower 1
+    photo_date: ''
+    photo_file: order_and_disorder_7.jpg
+    photo_credit: ''
+- artwork_name: Tower 2
+  dimensions: 90cm x 20cm
+  artwork_materials: Print and ink drawing
   id: 46
   artwork_photo: 0
   photos:
-  -
-    id: 70
-    photo_name: "Tower 2"
-    photo_date: ""
-    photo_file: "order_and_disorder_8.jpg"
-    photo_credit: ""
--
-  artwork_name: "Spire"
-  dimensions: "60cm x 20cm"
-  artwork_materials: ""
+  - id: 70
+    photo_name: Tower 2
+    photo_date: ''
+    photo_file: order_and_disorder_8.jpg
+    photo_credit: ''
+- artwork_name: Spire
+  dimensions: 60cm x 20cm
+  artwork_materials: ''
   id: 47
   artwork_photo: 0
   photos:
-  -
-    id: 71
-    photo_name: "Spire"
-    photo_date: ""
-    photo_file: "order_and_disorder_9.jpg"
-    photo_credit: ""
--
-  artwork_name: "Airiel"
-  dimensions: "60cm x 20cm"
-  artwork_materials: "Print and ink drawing"
+  - id: 71
+    photo_name: Spire
+    photo_date: ''
+    photo_file: order_and_disorder_9.jpg
+    photo_credit: ''
+- artwork_name: Airiel
+  dimensions: 60cm x 20cm
+  artwork_materials: Print and ink drawing
   id: 48
   artwork_photo: 0
   photos:
-  -
-    id: 72
-    photo_name: "Airiel"
-    photo_date: ""
-    photo_file: "order_and_disorder_10.jpg"
-    photo_credit: ""
--
-  artwork_name: "Pier 1"
-  dimensions: "21cm x 30cm"
-  artwork_materials: "Indian ink and iron drawing"
+  - id: 72
+    photo_name: Airiel
+    photo_date: ''
+    photo_file: order_and_disorder_10.jpg
+    photo_credit: ''
+- artwork_name: Pier 1
+  dimensions: 21cm x 30cm
+  artwork_materials: Indian ink and iron drawing
   id: 49
   artwork_photo: 0
   photos:
-  -
-    id: 73
-    photo_name: "Pier 1"
-    photo_date: ""
-    photo_file: "order_and_disorder_11.jpg"
-    photo_credit: ""
--
-  artwork_name: "Pier 2"
-  dimensions: "20cm x 15cm"
-  artwork_materials: "Indian ink and iron drawing"
+  - id: 73
+    photo_name: Pier 1
+    photo_date: ''
+    photo_file: order_and_disorder_11.jpg
+    photo_credit: ''
+- artwork_name: Pier 2
+  dimensions: 20cm x 15cm
+  artwork_materials: Indian ink and iron drawing
   id: 50
   artwork_photo: 0
   photos:
-  -
-    id: 74
-    photo_name: "Pier 2"
-    photo_date: ""
-    photo_file: "order_and_disorder_12.jpg"
-    photo_credit: ""
--
-  artwork_name: "Pier 3"
-  dimensions: "20cm x 15cm"
-  artwork_materials: "Indian ink and iron drawing"
+  - id: 74
+    photo_name: Pier 2
+    photo_date: ''
+    photo_file: order_and_disorder_12.jpg
+    photo_credit: ''
+- artwork_name: Pier 3
+  dimensions: 20cm x 15cm
+  artwork_materials: Indian ink and iron drawing
   id: 51
   artwork_photo: 0
   photos:
-  -
-    id: 75
-    photo_name: "Pier 3"
-    photo_date: ""
-    photo_file: "order_and_disorder_13.jpg"
-    photo_credit: ""
--
-  artwork_name: "Pier 4"
-  dimensions: "20cm x 15cm"
-  artwork_materials: "Indian ink and iron drawing"
+  - id: 75
+    photo_name: Pier 3
+    photo_date: ''
+    photo_file: order_and_disorder_13.jpg
+    photo_credit: ''
+- artwork_name: Pier 4
+  dimensions: 20cm x 15cm
+  artwork_materials: Indian ink and iron drawing
   id: 52
   artwork_photo: 0
   photos:
-  -
-    id: 76
-    photo_name: "Pier 4"
-    photo_date: ""
-    photo_file: "order_and_disorder_14.jpg"
-    photo_credit: ""
--
-  artwork_name: "Reflect"
-  dimensions: "45cm x 31cm"
-  artwork_materials: "Indian ink drawing"
+  - id: 76
+    photo_name: Pier 4
+    photo_date: ''
+    photo_file: order_and_disorder_14.jpg
+    photo_credit: ''
+- artwork_name: Reflect
+  dimensions: 45cm x 31cm
+  artwork_materials: Indian ink drawing
   id: 53
   artwork_photo: 0
   photos:
-  -
-    id: 77
-    photo_name: "Reflect"
-    photo_date: ""
-    photo_file: "order_and_disorder_15.jpg"
-    photo_credit: ""
--
-  artwork_name: "Conversation"
-  dimensions: "45cm x 31cm"
-  artwork_materials: "Indian ink drawing"
+  - id: 77
+    photo_name: Reflect
+    photo_date: ''
+    photo_file: order_and_disorder_15.jpg
+    photo_credit: ''
+- artwork_name: Conversation
+  dimensions: 45cm x 31cm
+  artwork_materials: Indian ink drawing
   id: 54
   artwork_photo: 0
   photos:
-  -
-    id: 78
-    photo_name: "Conversation"
-    photo_date: ""
-    photo_file: "order_and_disorder_16.jpg"
-    photo_credit: ""
--
-  artwork_name: "Lost and found 1"
-  dimensions: "31cm max"
-  artwork_materials: "Stoneware, porcelain and found"
+  - id: 78
+    photo_name: Conversation
+    photo_date: ''
+    photo_file: order_and_disorder_16.jpg
+    photo_credit: ''
+- artwork_name: Lost and found 1
+  dimensions: 31cm max
+  artwork_materials: Stoneware, porcelain and found
   id: 55
   artwork_photo: 0
   photos:
-  -
-    id: 79
-    photo_name: "Lost and found 1"
-    photo_date: ""
-    photo_file: "order_and_disorder_17.jpg"
-    photo_credit: ""
--
-  artwork_name: "Lost and found 2"
-  dimensions: "55cm max"
-  artwork_materials: "Stoneware and found material"
+  - id: 79
+    photo_name: Lost and found 1
+    photo_date: ''
+    photo_file: order_and_disorder_17.jpg
+    photo_credit: ''
+- artwork_name: Lost and found 2
+  dimensions: 55cm max
+  artwork_materials: Stoneware and found material
   id: 56
   artwork_photo: 0
   photos:
-  -
-    id: 80
-    photo_name: "Lost and found 2"
-    photo_date: ""
-    photo_file: "order_and_disorder_18.jpg"
-    photo_credit: ""
--
-  artwork_name: "Lost and found 3"
-  dimensions: "85cm max"
-  artwork_materials: "Stoneware and found material"
+  - id: 80
+    photo_name: Lost and found 2
+    photo_date: ''
+    photo_file: order_and_disorder_18.jpg
+    photo_credit: ''
+- artwork_name: Lost and found 3
+  dimensions: 85cm max
+  artwork_materials: Stoneware and found material
   id: 57
   artwork_photo: 0
   photos:
-  -
-    id: 81
-    photo_name: "Lost and found 3"
-    photo_date: ""
-    photo_file: "order_and_disorder_19.jpg"
-    photo_credit: ""
--
-  artwork_name: "Summer"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 81
+    photo_name: Lost and found 3
+    photo_date: ''
+    photo_file: order_and_disorder_19.jpg
+    photo_credit: ''
+- artwork_name: Summer
+  dimensions: ''
+  artwork_materials: ''
   id: 58
   artwork_photo: 0
   photos:
-  -
-    id: 82
-    photo_name: "Summer"
-    photo_date: "24-05-2020"
-    photo_file: "summer_24_may_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Entangle"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 82
+    photo_name: Summer
+    photo_date: 24-05-2020
+    photo_file: summer_24_may_2020.jpg
+    photo_credit: ''
+- artwork_name: Entangle
+  dimensions: ''
+  artwork_materials: ''
   id: 59
   artwork_photo: 0
   photos:
-  -
-    id: 83
-    photo_name: "Entangle"
-    photo_date: "25-06-2020"
-    photo_file: "entangle_1_15_july_2020.jpg"
-    photo_credit: ""
-  -
-    id: 84
-    photo_name: "Entangle"
-    photo_date: "15-07-2020"
-    photo_file: "entangle_2_15_july_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Figure"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 83
+    photo_name: Entangle
+    photo_date: 25-06-2020
+    photo_file: entangle_1_15_july_2020.jpg
+    photo_credit: ''
+  - id: 84
+    photo_name: Entangle
+    photo_date: 15-07-2020
+    photo_file: entangle_2_15_july_2020.jpg
+    photo_credit: ''
+- artwork_name: Figure
+  dimensions: ''
+  artwork_materials: ''
   id: 60
   artwork_photo: 2
   photos:
-  -
-    id: 85
-    photo_name: "Figure, top view"
-    photo_date: "02-06-2020"
-    photo_file: "figure_top_3_june.jpg"
-    photo_credit: ""
-  -
-    id: 86
-    photo_name: "Figure, front side"
-    photo_date: "02-06-2020"
-    photo_file: "figure_back_3_june_2020.jpg"
-    photo_credit: ""
-  -
-    id: 87
-    photo_name: "Figure, side view"
-    photo_date: "03-07-2020"
-    photo_file: "figure_side_3_june_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Dancers"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 85
+    photo_name: Figure, top view
+    photo_date: 02-06-2020
+    photo_file: figure_top_3_june.jpg
+    photo_credit: ''
+  - id: 86
+    photo_name: Figure, front side
+    photo_date: 02-06-2020
+    photo_file: figure_back_3_june_2020.jpg
+    photo_credit: ''
+  - id: 87
+    photo_name: Figure, side view
+    photo_date: 03-07-2020
+    photo_file: figure_side_3_june_2020.jpg
+    photo_credit: ''
+- artwork_name: Dancers
+  dimensions: ''
+  artwork_materials: ''
   id: 61
   artwork_photo: 0
   photos:
-  -
-    id: 88
-    photo_name: "Dancers"
-    photo_date: "15-07-2020"
-    photo_file: "dancers_15_july_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 88
+    photo_name: Dancers
+    photo_date: 15-07-2020
+    photo_file: dancers_15_july_2020.jpg
+    photo_credit: ''
+- artwork_name: Untitled
+  dimensions: ''
+  artwork_materials: ''
   id: 62
   artwork_photo: 0
   photos:
-  -
-    id: 89
-    photo_name: "Untitled"
-    photo_date: "15-07-2020"
-    photo_file: "untitled_15_july_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Fallen tower"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 89
+    photo_name: Untitled
+    photo_date: 15-07-2020
+    photo_file: untitled_15_july_2020.jpg
+    photo_credit: ''
+- artwork_name: Fallen tower
+  dimensions: ''
+  artwork_materials: ''
   id: 63
   artwork_photo: 0
   photos:
-  -
-    id: 90
-    photo_name: "Fallen tower - landscape"
-    photo_date: "22-07-2020"
-    photo_file: "fallen_tower_landscape_22_july_2020.jpg"
-    photo_credit: ""
-  -
-    id: 91
-    photo_name: "Fallen tower - portrait"
-    photo_date: "22-07-2020"
-    photo_file: "fallen_tower_portrait_22_july_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Lost and found"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 90
+    photo_name: Fallen tower - landscape
+    photo_date: 22-07-2020
+    photo_file: fallen_tower_landscape_22_july_2020.jpg
+    photo_credit: ''
+  - id: 91
+    photo_name: Fallen tower - portrait
+    photo_date: 22-07-2020
+    photo_file: fallen_tower_portrait_22_july_2020.jpg
+    photo_credit: ''
+- artwork_name: Lost and found
+  dimensions: ''
+  artwork_materials: ''
   id: 64
   artwork_photo: 0
   photos:
-  -
-    id: 92
-    photo_name: "Lost and found"
-    photo_date: "28-07-2020"
-    photo_file: "lost_and_found.JPG"
-    photo_credit: ""
--
-  artwork_name: "Untitled"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 92
+    photo_name: Lost and found
+    photo_date: 28-07-2020
+    photo_file: lost_and_found.JPG
+    photo_credit: ''
+- artwork_name: Untitled
+  dimensions: ''
+  artwork_materials: ''
   id: 65
   artwork_photo: 0
   photos:
-  -
-    id: 93
-    photo_name: "Untitled"
-    photo_date: "31-07-2020"
-    photo_file: "untitled_31_july_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Untitled"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 93
+    photo_name: Untitled
+    photo_date: 31-07-2020
+    photo_file: untitled_31_july_2020.jpg
+    photo_credit: ''
+- artwork_name: Untitled
+  dimensions: ''
+  artwork_materials: ''
   id: 66
   artwork_photo: 0
   photos:
-  -
-    id: 94
-    photo_name: "Untitled"
-    photo_date: "02-08-2020"
-    photo_file: "untitled_2_aug_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Chilli creature"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 94
+    photo_name: Untitled
+    photo_date: 02-08-2020
+    photo_file: untitled_2_aug_2020.jpg
+    photo_credit: ''
+- artwork_name: Chilli creature
+  dimensions: ''
+  artwork_materials: ''
   id: 67
   artwork_photo: 0
   photos:
-  -
-    id: 95
-    photo_name: "Chilli creature"
-    photo_date: "04-08-2020"
-    photo_file: "chilli_creature_4_aug_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Plan"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 95
+    photo_name: Chilli creature
+    photo_date: 04-08-2020
+    photo_file: chilli_creature_4_aug_2020.jpg
+    photo_credit: ''
+- artwork_name: Plan
+  dimensions: ''
+  artwork_materials: ''
   id: 68
   artwork_photo: 0
   photos:
-  -
-    id: 96
-    photo_name: "Plan"
-    photo_date: "03-09-2020"
-    photo_file: "plan_3_sept_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Hooks"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 96
+    photo_name: Plan
+    photo_date: 03-09-2020
+    photo_file: plan_3_sept_2020.jpg
+    photo_credit: ''
+- artwork_name: Hooks
+  dimensions: ''
+  artwork_materials: ''
   id: 69
   artwork_photo: 0
   photos:
-  -
-    id: 97
-    photo_name: "Hooks"
-    photo_date: "03-09-2020"
-    photo_file: "hooks_3_sept_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Recycle"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 97
+    photo_name: Hooks
+    photo_date: 03-09-2020
+    photo_file: hooks_3_sept_2020.jpg
+    photo_credit: ''
+- artwork_name: Recycle
+  dimensions: ''
+  artwork_materials: ''
   id: 70
   artwork_photo: 0
   photos:
-  -
-    id: 98
-    photo_name: "Recycle"
-    photo_date: "03-09-2020"
-    photo_file: "recycle_3_sept_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Recycle"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 98
+    photo_name: Recycle
+    photo_date: 03-09-2020
+    photo_file: recycle_3_sept_2020.jpg
+    photo_credit: ''
+- artwork_name: Recycle
+  dimensions: ''
+  artwork_materials: ''
   id: 71
   artwork_photo: 0
   photos:
-  -
-    id: 99
-    photo_name: "Recycle"
-    photo_date: "25-10-2020"
-    photo_file: "recycle_25_oct_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Recycle"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 99
+    photo_name: Recycle
+    photo_date: 25-10-2020
+    photo_file: recycle_25_oct_2020.jpg
+    photo_credit: ''
+- artwork_name: Recycle
+  dimensions: ''
+  artwork_materials: ''
   id: 72
   artwork_photo: 0
   photos:
-  -
-    id: 100
-    photo_name: "Recycle"
-    photo_date: "28-10-2020"
-    photo_file: "recycle_28_oct_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Flow"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 100
+    photo_name: Recycle
+    photo_date: 28-10-2020
+    photo_file: recycle_28_oct_2020.jpg
+    photo_credit: ''
+- artwork_name: Flow
+  dimensions: ''
+  artwork_materials: ''
   id: 73
   artwork_photo: 0
   photos:
-  -
-    id: 101
-    photo_name: "Flow"
-    photo_date: "09-11-2020"
-    photo_file: "flow_9_nov_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Tangle"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 101
+    photo_name: Flow
+    photo_date: '09-11-2020'
+    photo_file: flow_9_nov_2020.jpg
+    photo_credit: ''
+- artwork_name: Tangle
+  dimensions: ''
+  artwork_materials: ''
   id: 74
   artwork_photo: 0
   photos:
-  -
-    id: 102
-    photo_name: "Tangle - landscape"
-    photo_date: "10-11-2020"
-    photo_file: "tangle_10_nov_2020.jpg"
-    photo_credit: ""
-  -
-    id: 103
-    photo_name: "Tangle - portrait"
-    photo_date: "10-11-2020"
-    photo_file: "tangle_portrait_10_nov_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Scrap"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 102
+    photo_name: Tangle - landscape
+    photo_date: 10-11-2020
+    photo_file: tangle_10_nov_2020.jpg
+    photo_credit: ''
+  - id: 103
+    photo_name: Tangle - portrait
+    photo_date: 10-11-2020
+    photo_file: tangle_portrait_10_nov_2020.jpg
+    photo_credit: ''
+- artwork_name: Scrap
+  dimensions: ''
+  artwork_materials: ''
   id: 75
   artwork_photo: 1
   photos:
-  -
-    id: 104
-    photo_name: "Scrap - work in progress"
-    photo_date: "21-11-2020"
-    photo_file: "scrap_21_nov_2020.jpg"
-    photo_credit: ""
-  -
-    id: 105
-    photo_name: "Scrap - landscape"
-    photo_date: "29-11-2020"
-    photo_file: "scrap_landscape_29_nov_2020.jpg"
-    photo_credit: ""
-  -
-    id: 106
-    photo_name: "Scrap - detail"
-    photo_date: "29-11-2020"
-    photo_file: "scrap_detail_29_nov_2020.jpg"
-    photo_credit: ""
-  -
-    id: 107
-    photo_name: "Scrap - portrait"
-    photo_date: "29-11-2020"
-    photo_file: "scrap_portrait_29_nov_2020.jpg"
-    photo_credit: ""
--
-  artwork_name: "Relax"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 104
+    photo_name: Scrap - work in progress
+    photo_date: 21-11-2020
+    photo_file: scrap_21_nov_2020.jpg
+    photo_credit: ''
+  - id: 105
+    photo_name: Scrap - landscape
+    photo_date: 29-11-2020
+    photo_file: scrap_landscape_29_nov_2020.jpg
+    photo_credit: ''
+  - id: 106
+    photo_name: Scrap - detail
+    photo_date: 29-11-2020
+    photo_file: scrap_detail_29_nov_2020.jpg
+    photo_credit: ''
+  - id: 107
+    photo_name: Scrap - portrait
+    photo_date: 29-11-2020
+    photo_file: scrap_portrait_29_nov_2020.jpg
+    photo_credit: ''
+- artwork_name: Relax
+  dimensions: ''
+  artwork_materials: ''
   id: 76
   artwork_photo: 0
   photos:
-  -
-    id: 108
-    photo_name: "Relax"
-    photo_date: "06-02-2021"
-    photo_file: "relax_6_feb_2021.jpg"
-    photo_credit: ""
--
-  artwork_name: "Stack"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 108
+    photo_name: Relax
+    photo_date: 06-02-2021
+    photo_file: relax_6_feb_2021.jpg
+    photo_credit: ''
+- artwork_name: Stack
+  dimensions: ''
+  artwork_materials: ''
   id: 77
   artwork_photo: 0
   photos:
-  -
-    id: 109
-    photo_name: "Stack - top"
-    photo_date: "08-02-2021"
-    photo_file: "stack_top_8_feb_2021.jpg"
-    photo_credit: ""
-  -
-    id: 110
-    photo_name: "Stack - side"
-    photo_date: "08-02-2021"
-    photo_file: "stack_side_8_feb_2021.jpg"
-    photo_credit: ""
-  -
-    id: 111
-    photo_name: "Stack - side on white"
-    photo_date: "08-02-2021"
-    photo_file: "stack_side_on_white_8_feb_2021.jpg"
-    photo_credit: ""
-  -
-    id: 112
-    photo_name: "Stack - side on white"
-    photo_date: "08-02-2021"
-    photo_file: "stack_on_white_8_feb_2021.jpg"
-    photo_credit: ""
--
-  artwork_name: "Broken"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 109
+    photo_name: Stack - top
+    photo_date: '08-02-2021'
+    photo_file: stack_top_8_feb_2021.jpg
+    photo_credit: ''
+  - id: 110
+    photo_name: Stack - side
+    photo_date: '08-02-2021'
+    photo_file: stack_side_8_feb_2021.jpg
+    photo_credit: ''
+  - id: 111
+    photo_name: Stack - side on white
+    photo_date: '08-02-2021'
+    photo_file: stack_side_on_white_8_feb_2021.jpg
+    photo_credit: ''
+  - id: 112
+    photo_name: Stack - side on white
+    photo_date: '08-02-2021'
+    photo_file: stack_on_white_8_feb_2021.jpg
+    photo_credit: ''
+- artwork_name: Broken
+  dimensions: ''
+  artwork_materials: ''
   id: 78
   artwork_photo: 0
   photos:
-  -
-    id: 113
-    photo_name: "Broken"
-    photo_date: "10-02-2021"
-    photo_file: "broken_10_mar_2021.jpg"
-    photo_credit: ""
--
-  artwork_name: "Spring"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 113
+    photo_name: Broken
+    photo_date: 10-02-2021
+    photo_file: broken_10_mar_2021.jpg
+    photo_credit: ''
+- artwork_name: Spring
+  dimensions: ''
+  artwork_materials: ''
   id: 79
   artwork_photo: 0
   photos:
-  -
-    id: 114
-    photo_name: "Spring - side"
-    photo_date: "10-04-2021"
-    photo_file: "spring_side_10_april_2021.jpg"
-    photo_credit: ""
-  -
-    id: 115
-    photo_name: "Spring"
-    photo_date: "10-04-2021"
-    photo_file: "spring_10_april_2021.jpg"
-    photo_credit: ""
-  -
-    id: 116
-    photo_name: "Spring - detail"
-    photo_date: "04-04-2021"
-    photo_file: "spring_detail_4_apr_2021.jpg"
-    photo_credit: ""
--
-  artwork_name: "Tangle kit"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 114
+    photo_name: Spring - side
+    photo_date: 10-04-2021
+    photo_file: spring_side_10_april_2021.jpg
+    photo_credit: ''
+  - id: 115
+    photo_name: Spring
+    photo_date: 10-04-2021
+    photo_file: spring_10_april_2021.jpg
+    photo_credit: ''
+  - id: 116
+    photo_name: Spring - detail
+    photo_date: 04-04-2021
+    photo_file: spring_detail_4_apr_2021.jpg
+    photo_credit: ''
+- artwork_name: Tangle kit
+  dimensions: ''
+  artwork_materials: ''
   id: 80
   artwork_photo: 0
   photos:
-  -
-    id: 115
-    photo_name: "Tangle kit"
-    photo_date: "10-04-2021"
-    photo_file: "tangle_kit_10_april_2021.jpg"
-    photo_credit: ""
-  -
-    id: 116
-    photo_name: "Tangle kit - side"
-    photo_date: "10-04-2021"
-    photo_file: "tangle_kit_side_2_10_apr_2021.jpg"
-    photo_credit: ""
--
-  artwork_name: "Spring kit"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 115
+    photo_name: Tangle kit
+    photo_date: 10-04-2021
+    photo_file: tangle_kit_10_april_2021.jpg
+    photo_credit: ''
+  - id: 116
+    photo_name: Tangle kit - side
+    photo_date: 10-04-2021
+    photo_file: tangle_kit_side_2_10_apr_2021.jpg
+    photo_credit: ''
+- artwork_name: Spring kit
+  dimensions: ''
+  artwork_materials: ''
   id: 81
   artwork_photo: 0
   photos:
-  -
-    id: 117
-    photo_name: "Spring kit - 1"
-    photo_date: "10-04-2021"
-    photo_file: "sprint_kit_1_10_april_2021.jpg"
-    photo_credit: ""
-  -
-    id: 118
-    photo_name: "Spring kit - 2"
-    photo_date: "10-04-2021"
-    photo_file: "sprint_kit_2_10_apr_2021.jpg"
-    photo_credit: ""
--
-  artwork_name: "Chase mug"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 117
+    photo_name: Spring kit - 1
+    photo_date: 10-04-2021
+    photo_file: sprint_kit_1_10_april_2021.jpg
+    photo_credit: ''
+  - id: 118
+    photo_name: Spring kit - 2
+    photo_date: 10-04-2021
+    photo_file: sprint_kit_2_10_apr_2021.jpg
+    photo_credit: ''
+- artwork_name: Chase mug
+  dimensions: ''
+  artwork_materials: ''
   id: 82
   artwork_photo: 0
   photos:
-  -
-    id: 119
-    photo_name: "Chase mug"
-    photo_date: "08-05-2021"
-    photo_file: "chase_mug_8_may_2021.jpg"
-    photo_credit: ""
--
-  artwork_name: "Sit mug"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 119
+    photo_name: Chase mug
+    photo_date: '08-05-2021'
+    photo_file: chase_mug_8_may_2021.jpg
+    photo_credit: ''
+- artwork_name: Sit mug
+  dimensions: ''
+  artwork_materials: ''
   id: 83
   artwork_photo: 0
   photos:
-  -
-    id: 120
-    photo_name: "Sit mug"
-    photo_date: "08-05-2021"
-    photo_file: "sit_mug_22_june_2021.jpg"
-    photo_credit: ""
--
-  artwork_name: "Espresso cup"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 120
+    photo_name: Sit mug
+    photo_date: '08-05-2021'
+    photo_file: sit_mug_22_june_2021.jpg
+    photo_credit: ''
+- artwork_name: Espresso cup
+  dimensions: ''
+  artwork_materials: ''
   id: 84
   artwork_photo: 0
   photos:
-  -
-    id: 121
-    photo_name: "Espresso cup"
-    photo_date: "29-07-2021"
-    photo_file: "espresso_cup_29_july_2021.jpg"
-    photo_credit: ""
-  -
-    id: 122
-    photo_name: "Espresso cup"
-    photo_date: "29-06-2021"
-    photo_file: "espresso_cup_29_june_2021.jpg"
-    photo_credit: ""
-  -
-    id: 123
-    photo_name: "Espresso cup - in progress"
-    photo_date: "29-06-2021"
-    photo_file: "espresso_cup_in_progress_15_july_2021.jpg"
-    photo_credit: ""
-  -
-    id: 124
-    photo_name: "Espresso cup - in progress, detail"
-    photo_date: "14-09-2021"
-    photo_file: "espresso_cup_in_progress_14_sept_2021.jpg"
-    photo_credit: ""
-  -
-    id: 125
-    photo_name: "Espresso cup - detail"
-    photo_date: "14-09-2021"
-    photo_file: "espresso_cup_detail_4_14_sept_2021.jpg"
-    photo_credit: ""
--
-  artwork_name: "Cup glazed"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 121
+    photo_name: Espresso cup
+    photo_date: 29-07-2021
+    photo_file: espresso_cup_29_july_2021.jpg
+    photo_credit: ''
+  - id: 122
+    photo_name: Espresso cup
+    photo_date: 29-06-2021
+    photo_file: espresso_cup_29_june_2021.jpg
+    photo_credit: ''
+  - id: 123
+    photo_name: Espresso cup - in progress
+    photo_date: 29-06-2021
+    photo_file: espresso_cup_in_progress_15_july_2021.jpg
+    photo_credit: ''
+  - id: 124
+    photo_name: Espresso cup - in progress, detail
+    photo_date: 14-09-2021
+    photo_file: espresso_cup_in_progress_14_sept_2021.jpg
+    photo_credit: ''
+  - id: 125
+    photo_name: Espresso cup - detail
+    photo_date: 14-09-2021
+    photo_file: espresso_cup_detail_4_14_sept_2021.jpg
+    photo_credit: ''
+- artwork_name: Cup glazed
+  dimensions: ''
+  artwork_materials: ''
   id: 85
   artwork_photo: 0
   photos:
-  -
-    id: 126
-    photo_name: "Cup glazed"
-    photo_date: "30-07-2021"
-    photo_file: "cup_glazed_30_july_2021.jpg"
-    photo_credit: ""
-  -
-    id: 127
-    photo_name: "Espresso cup"
-    photo_date: "29-06-2021"
-    photo_file: "espresso_cup_30_july_2021.jpg"
-    photo_credit: ""
-  -
-    id: 128
-    photo_name: "Espresso cup - detail"
-    photo_date: "14-09-2021"
-    photo_file: "espresso_cup_detail_1_14_sept_2021.jpg"
-    photo_credit: ""
-  -
-    id: 129
-    photo_name: "Espresso cup - detail"
-    photo_date: "14-09-2021"
-    photo_file: "espresso_cup_detail_2_14_sept_2021.jpg"
-    photo_credit: ""
-  -
-    id: 130
-    photo_name: "Espresso cup - detail"
-    photo_date: "14-09-2021"
-    photo_file: "espresso_cup_detail_5_14_sept_2021.jpg"
-    photo_credit: ""
-  -
-    id: 131
-    photo_name: "Espresso cup - detail"
-    photo_date: "14-09-2021"
-    photo_file: "espresso_cup_detail_6_14_sept_2021.jpg"
-    photo_credit: ""
--
-  artwork_name: "Sinker"
-  dimensions: ""
-  artwork_materials: ""
+  - id: 126
+    photo_name: Cup glazed
+    photo_date: 30-07-2021
+    photo_file: cup_glazed_30_july_2021.jpg
+    photo_credit: ''
+  - id: 127
+    photo_name: Espresso cup
+    photo_date: 29-06-2021
+    photo_file: espresso_cup_30_july_2021.jpg
+    photo_credit: ''
+  - id: 128
+    photo_name: Espresso cup - detail
+    photo_date: 14-09-2021
+    photo_file: espresso_cup_detail_1_14_sept_2021.jpg
+    photo_credit: ''
+  - id: 129
+    photo_name: Espresso cup - detail
+    photo_date: 14-09-2021
+    photo_file: espresso_cup_detail_2_14_sept_2021.jpg
+    photo_credit: ''
+  - id: 130
+    photo_name: Espresso cup - detail
+    photo_date: 14-09-2021
+    photo_file: espresso_cup_detail_5_14_sept_2021.jpg
+    photo_credit: ''
+  - id: 131
+    photo_name: Espresso cup - detail
+    photo_date: 14-09-2021
+    photo_file: espresso_cup_detail_6_14_sept_2021.jpg
+    photo_credit: ''
+- artwork_name: Sinker
+  dimensions: ''
+  artwork_materials: ''
   id: 86
   artwork_photo: 0
   photos:
-  -
-    id: 132
-    photo_name: "Sinker"
-    photo_date: "02-03-2021"
-    photo_file: "sinker_2_march_2021.jpg"
-    photo_credit: ""
+  - id: 132
+    photo_name: Sinker
+    photo_date: 02-03-2021
+    photo_file: sinker_2_march_2021.jpg
+    photo_credit: ''
