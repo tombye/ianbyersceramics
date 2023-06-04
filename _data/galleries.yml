@@ -1,5 +1,5 @@
--
-  id: 1
+---
+- id: 1
   name: "Liminal series"
   slug: liminal-series
   photo_artwork: 0
@@ -10,8 +10,7 @@
   - 3
   - 4
   - 5
--
-  id: 2
+- id: 2
   name: "-gen"
   slug: -gen
   photo_artwork: 7
@@ -22,8 +21,7 @@
   - 9
   - 10
   - 11
--
-  id: 3
+- id: 3
   name: "Archive"
   slug: archive
   photo_artwork: 19
@@ -43,15 +41,13 @@
   - 24
   - 25
   - 26
--
-  id: 4
+- id: 4
   name: "Works in progress 2013"
   slug: works-in-progress-2013
   photo_artwork: 27
   artworks:
   - 27
--
-  id: 5
+- id: 5
   name: "Odyssey"
   slug: odyssey
   photo_artwork: 29
@@ -66,8 +62,7 @@
   - 35
   - 36
   - 37
--
-  id: 6
+- id: 6
   name: "Order and disorder"
   slug: order-and-disorder
   photo_artwork: 38
@@ -91,8 +86,7 @@
   - 54
   - 55
   - 56
--
-  id: 7
+- id: 7
   name: "Covid year"
   slug: covid-year
   photo_artwork: 57
@@ -126,3 +120,40 @@
   - 83
   - 84
   - 85
+- id: 8
+  name: "Drawings in space"
+  slug: drawings-in-space
+  photo_artwork: 86
+  artworks:
+  - 86
+  - 87
+  - 88
+  - 89
+  - 90
+  - 91
+  - 92
+  - 93
+  - 94
+  - 95
+  - 96
+  - 97
+  - 98
+  - 99
+  - 100
+  - 101
+  - 102
+  - 103
+  - 104
+  - 105
+  - 106
+  - 107
+  - 108
+  - 109
+  - 110
+  - 111
+  - 112
+  - 113
+  - 114
+  - 115
+  - 116
+  - 117

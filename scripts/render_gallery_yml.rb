@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 
 require 'erb'
+require 'pathname'
+require 'fileutils'
 require_relative './site_data/gallery'
 require_relative './site_data/artwork'
 
