@@ -344,25 +344,36 @@ section#content .sidepiece p {
     font-size: 1.4em;
 }
 
-.gallery section li {
-	display: inline-block;
-    *display: inline;
-    *zoom: 1;
-	text-align: center;
-	width: 32%;
-    min-width: 264px;
+.gallery section ul {
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+  justify-content: space-around;
+  grid-row-gap: 32px;
 }
 
-@media (max-width: 528px) {
-    .gallery intro {
-        margin-left: 32px;
-        margin-right: 32px;
-    }
+@media (max-width: 860px) {
+  .gallery section ul {
+    grid-template-columns: repeat(2, 200px);
+  }
+}
 
-    .gallery section li {
-        display: block;
-        width: 100%;
-    }
+@media (max-width: 660px) {
+  .gallery section ul {
+    grid-template-columns: repeat(1, 200px);
+  }
+}
+
+.gallery section li {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+@media (max-width: 840px) {
+  .gallery intro {
+    margin-left: 32px;
+    margin-right: 32px;
+  }
 }
 
 .gallery section li a,
